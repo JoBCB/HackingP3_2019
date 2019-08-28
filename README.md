@@ -31,6 +31,8 @@ Recent work, news and updates: www.joanachicau.com}
 
 ### Hacking Revisited
 
+“Hacks, whether analog, digital or analogical, always target the system.” pp. 201 _Dominik Landwehr (Hg.): Hacking; Edition Digital Culture 2; Migros-Kulturprozent, Christoph Merian Verlag; Oktober 2014, Deutsch/Englisch, ISBN_
 
+[References](https://github.com/JoBCB/HackingP3_2019/blob/master/Hacking_Glossaries_Meanings.md)
 
 For information on the assignement; assessment criteria and schedule visit the official courses' website.
