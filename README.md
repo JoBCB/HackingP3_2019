@@ -17,16 +17,16 @@ Recent work, news and updates: www.joanachicau.com}
 ### Methology
 
 
-# Rehearsing as Methodology
+**Rehearsing as Methodology**
 
-# Themes and Concepts to be explored:
+**Themes and Concepts to be explored**
 
 - Staging (/interfacing): the notion of staging new scenarios beyond usership — spectatorship: explore different 'action play roles' in collaborative network settings with interdependent forms of agency. 
 
 - Foster socio-political imagination (physical theatre); how to rethink participation and different conditions for affective interfacing of bodies and technologies?
 
 
-### Theme and Structure
+**Classes Structure**
 
 
 ### Hacking Revisited
