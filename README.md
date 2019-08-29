@@ -45,7 +45,9 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 Verena Kuni essay: Analogital Hacks — Source: _Dominik Landwehr (Hg.): Hacking; Edition Digital Culture 2; Migros-Kulturprozent, Christoph Merian Verlag; Oktober 2014, Deutsch/Englisch, ISBN_
 
 
-[Hacker's blog and Hacker's spaces worldwide] (https://hackaday.io)
+[Examples of a Hacker's community blog] (https://hackaday.io)
+
+[Hacker's spaces worldwide] (https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
 
 
 [More references and definitions in this link.](https://github.com/JoBCB/HackingP3_2019/blob/master/Hacking_Glossaries_Meanings.md)
