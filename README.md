@@ -91,8 +91,8 @@ _Right_ "Golem — in Jewish folklore, a golem is an animated anthropomorphic be
 
 _Refs:_
 
-- [Jara Rocha and Femke Snelting] (https://possiblebodies.constantvzw.org/inventory/?about) <br/>
-- [Simone Niquille] (https://technofle.sh/)
+- [Jara Rocha and Femke Snelting](https://possiblebodies.constantvzw.org/inventory/?about) <br/>
+- [Simone Niquille](https://technofle.sh/)
 
 
 
@@ -110,15 +110,34 @@ The upshot is that,"by continuously embracing technologies, we relate to them as
 
 
 
-_Refs:_
+_Refs on 'hacking' body/ies and environments:_ 
 
-on 'Hacking' the body/ies and environments: 
+body and data
+
+- [Amy Karle](https://www.amykarle.com/project/biofeedback/)
+- [Institute of Human Obsolescence](http://speculative.capital)
+
+body and surveillance:
+
+- [Zach Blas](http://www.zachblas.info/works/facial-weaponization-suite/) <br/>
+
+
+body and wearables:
 
 - [Rebecca Horn](https://www.youtube.com/watch?v=6uEkq3IBIf0)<br/>
-- [Zach Blas](http://www.zachblas.info/works/facial-weaponization-suite/) <br/>
+- [Various Examples](https://www.dezeen.com/tag/wearable-technology/)
+
+
+from choreography:
+
+- [Koy Cha Fai](http://www.ka5.info/prospectus.html)
 - [Eric Minh Cuong Castaing 01](https://www.ballet-de-marseille.com/en/collaborations/performances/lrsquoacircge-d-or-45) <br/>
 - [Eric Minh Cuong Castaing 02](https://www.ballet-de-marseille.com/en/collaborations/performances/phoenix-47) <br/>
 - [Marie Chouinard](https://www.dansedanse.ca/en/compagnie-marie-chouinard-bodyremixlesvariationsgoldberg) <br/>
+
+from robotics:
+
+- [Alter 3](https://robotreporters.com/alter-3-robot-conducts-android-opera-in-japan-exploring-the-future-of-human-communication/)
 
 ---
 
