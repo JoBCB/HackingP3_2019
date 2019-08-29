@@ -21,19 +21,61 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 # Theme and Structure
 
-**Themes and Concepts to be explored**
-
 ## Shaping Life{s} 
 
-![alt text](https://commons.wikimedia.org/wiki/File:Prague-golem-reproduction.jpg "Golem")
 
+![alt text](https://upload.wikimedia.org/wikipedia/commons/9/9f/Prague-golem-reproduction.jpg "Golem")
 
 Golem — in Jewish folklore, a golem is an animated anthropomorphic being that is magically created entirely from inanimate matter (usually clay or mud). The word was used to mean an amorphous, unformed material in Psalms and medieval writing. [Source](https://en.wikipedia.org/wiki/Golem)
 
+---
+
+	[1] Analysing bodies:
+
+		[1.1] From Organ to Organ-ization (Systems)
+    
+![alt text](https://upload.wikimedia.org/wikipedia/commons/5/55/Foetal_positions_in_uterus%2C_pregnant_female_Wellcome_L0000845.jpg)
+   
+    
+[Anatomy: deals with the structural organization of living things.](https://en.wikipedia.org/wiki/Anatomy)
+
+
+_Refs:_
+
+[Jara Rocha and Femke Snelting] (https://possiblebodies.constantvzw.org/inventory/?about)
+[Simone Niquille] (https://technofle.sh/)
+
+
+![alt text](https://www.dansedanse.ca/sites/default/files/cmc-body_3-_0.jpg)
+
+
+		[1.2] Artificial, Synthetic, Hybrid ...
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/8/81/Eiserne_Hand_Glasnegativ_6_cropped.jpg)
+
+> "a prosthesis (plural: prostheses; from Ancient Greek prosthesis, "addition, application, attachment")"
+[https://en.wikipedia.org/wiki/Prosthesis](https://en.wikipedia.org/wiki/Prosthesis)
+
+> "Marshall McLuhan took such ideas further. In his terminology, the extensions of man are all media. In "Understanding Media" he suggested that, "any invention of technology is an extension of our physical bodies, and such extension also demands new ratios or new equilibriums among the other organs and extensions of the body" (1964, p.55).
+The upshot is that,"by continuously embracing technologies, we relate to them as servomechanisms. That is why we must, to use them at all, serve these objects, these extensions of ourselves, as gods or minor religions" (p.56)."" [Source: Articial Organs](http://www.nous.org.uk/art.org.html)
+
+![alt text](https://www.dansedanse.ca/sites/default/files/cmc-body_3-_0.jpg)
+
+---
+
+_Ref:_
+
+[Rebecca Horn](https://www.youtube.com/watch?v=6uEkq3IBIf0)
 
 ![alt text](https://github.com/JoBCB/HackingP3_2019/blob/master/Orozco.jpg "Orozco")
 
-**Classes Structure**
+**“These creatures that were made, not born”**
+
+![alt text](https://github.com/JoBCB/HackingP3_2019/blob/master/Gods_and_Robots_Myths_and_Machines.md "Read text")
+
+![alt text](https://github.com/JoBCB/HackingP3_2019/blob/master/Gesture_Program.png "Gesture and Program")
+
+
 
 
 
