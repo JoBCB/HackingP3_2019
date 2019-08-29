@@ -3,7 +3,7 @@ Tutors: Ine Poppe and Joana Chicau (Practice); Mariana Aboim (Theory)
 <!-- comment -->
 jointly with Ceramic station & interventions with Sound & Image +  Interaction Station
 
-This document gathers resources by _Joana Chicau_ { Rotterdam based graphic designer, coder, researcher — with a background in dance. Her trans-disciplinary project interweaves web programming languages and environments with choreographic practices. In her practice she researches theintersection of the body with the constructed, designed, programmed environment, aiming at in widening the ways in whichdigital sciences is presented and made accessible to the public. She has been actively participating and organizing events with performances involving multi-location collaborative coding, algorithmic improvisation, open discussions on gender equality and activism. Recent work, news and updates: www.joanachicau.com }
+This document gathers resources by [Joana Chicau](www.joanachicau.com ) {Rotterdam based graphic designer, coder, researcher — with a background in dance. Her trans-disciplinary project interweaves web programming languages and environments with choreographic practices. In her practice she researches theintersection of the body with the constructed, designed, programmed environment, aiming at in widening the ways in whichdigital sciences is presented and made accessible to the public. She has been actively participating and organizing events with performances involving multi-location collaborative coding, algorithmic improvisation, open discussions on gender equality and activism.}
 
 **Table of contents**
 
@@ -163,11 +163,6 @@ Languages for programming movement [reference](http://www.ppig.org/sites/ppig.or
 
 
 …Manipulations, transformations, and unconventional redesigns of technical appliances which contain both analog or analog-electronic as well as digital components. (...) The brutality of a hack lies less in the tool itself than in the modus operandi and its purpose.” Verena Kuni essay: Analogital Hacks — Source: _Dominik Landwehr (Hg.): Hacking; Edition Digital Culture 2; Migros-Kulturprozent, Christoph Merian Verlag; Oktober 2014, Deutsch/Englisch, ISBN_
-
-
-"A person capable of appreciating "hack value". [Definition of a Hacker](http://www.catb.org/jargon/html/H/hacker.html) &
-[Social Hacking, Revisited — Florian Cramer](http://artwarez.org/projects/nagBOOK/texte/florian_eng.html)
-
 
 - [Examples of a Hacker's community blog](https://hackaday.io)  <br/>
 - [Hacker's spaces worldwide](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
