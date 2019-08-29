@@ -3,22 +3,23 @@ Tutors: Ine Poppe and Joana Chicau (Practice); Mariana Aboim (Theory)
 
 jointly with Ceramic station & interventions with Sound & Image +  Interaction Station
 
-This document gathers resources by Joana Chicau { a Rotterdam based graphic designer, coder, researcher — with a background in dance. Her trans-disciplinary project interweaves web programming languages and environments with choreographic practices. In her practice she researches theintersection of the body with the constructed, designed, programmed environment, aiming at in widening the ways in whichdigital sciences is presented and made accessible to the public. She has been actively participating and organizing events with performances involving multi-location collaborative coding, algorithmic improvisation, open discussions on gender equality and activism. Recent work, news and updates: www.joanachicau.com }
+This document gathers resources by _Joana Chicau_ { Rotterdam based graphic designer, coder, researcher — with a background in dance. Her trans-disciplinary project interweaves web programming languages and environments with choreographic practices. In her practice she researches theintersection of the body with the constructed, designed, programmed environment, aiming at in widening the ways in whichdigital sciences is presented and made accessible to the public. She has been actively participating and organizing events with performances involving multi-location collaborative coding, algorithmic improvisation, open discussions on gender equality and activism. Recent work, news and updates: www.joanachicau.com }
+
+**Table of contents**
+
+* [Methology](##Methodology)
+
+* [Theme & Structure](##Theme-and-Structure)
+
+* [Hacking Revisited](##Hacking%20Revisited)
 
 
-- [Methology](###Methodology)
-
-- [Theme & Structure](###Theme%20and%20Structure)
-
-- [Hacking Revisited](###Hacking%20Revisited)
-
-
-#### Methodology
+### Methodology
 
 
 **Rehearsing as Method**
 
-#### Theme and Structure
+### Theme and Structure
 
 **Themes and Concepts to be explored**
 
@@ -26,7 +27,7 @@ This document gathers resources by Joana Chicau { a Rotterdam based graphic desi
 **Classes Structure**
 
 
-### Hacking Revisited
+## Hacking Revisited
 
 “Hacks, whether analog, digital or analogical, always target the system.” pp. 201 _Dominik Landwehr (Hg.): Hacking; Edition Digital Culture 2; Migros-Kulturprozent, Christoph Merian Verlag; Oktober 2014, Deutsch/Englisch, ISBN_
 
