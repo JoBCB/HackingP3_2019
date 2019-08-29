@@ -49,20 +49,20 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 **Objectives:**
 
-— Introduce the notion of Hacking and Bio-hacking; references and different artistic approaches to body and data politics; <br/>
-— Explore the notions of Hacking and Bio-hacking in connection to languages; gestures; protocols. <br/>
-— Understand the broader sociocultural implications of the latter; and historical perspectives. <br/>
-— Experience a holistic process in which embodiment and movement studies play a central role; <br/>
-— Critically address the different topics and methods — its usages and contexts.
+_ Introduce the notion of Hacking and Bio-hacking; references and different artistic approaches to body and data politics; <br/>
+_ Explore the notions of Hacking and Bio-hacking in connection to languages; gestures; protocols. <br/>
+_ Understand the broader sociocultural implications of the latter; and historical perspectives. <br/>
+_ Experience a holistic process in which embodiment and movement studies play a central role; <br/>
+_ Critically address the different topics and methods — its usages and contexts.
 
 
 # Theme and Structure
 
-## Shaping Life{/s} 
+	## Shaping Life{/s} 
 
-**“These creatures that were made, not born”**
+	**“These creatures that were made, not born”**
 
-Read "Gods_and_Robots_Myths_and_Machines" — [Intro Text Here](https://github.com/JoBCB/HackingP3_2019/blob/master/Gods_and_Robots_Myths_and_Machines.md)
+"Gods_and_Robots_Myths_and_Machines" — [Link — text to read](https://github.com/JoBCB/HackingP3_2019/blob/master/Gods_and_Robots_Myths_and_Machines.md)
 
 
 <img src="https://github.com/JoBCB/HackingP3_2019/blob/master/orozco_golem.png" width="300">
