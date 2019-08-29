@@ -114,7 +114,7 @@ _Refs on 'hacking' body/ies and environments:_
 
 body and data
 
-- [Amy Karle](https://www.amykarle.com/project/biofeedback/)
+- [Amy Karle](https://www.amykarle.com/project/biofeedback/) <br/>
 - [Institute of Human Obsolescence](http://speculative.capital)
 
 body and surveillance:
@@ -130,7 +130,7 @@ body and wearables:
 
 from choreography:
 
-- [Koy Cha Fai](http://www.ka5.info/prospectus.html)
+- [Choy Ka Fai](http://www.ka5.info/prospectus.html)  <br/>
 - [Eric Minh Cuong Castaing 01](https://www.ballet-de-marseille.com/en/collaborations/performances/lrsquoacircge-d-or-45) <br/>
 - [Eric Minh Cuong Castaing 02](https://www.ballet-de-marseille.com/en/collaborations/performances/phoenix-47) <br/>
 - [Marie Chouinard](https://www.dansedanse.ca/en/compagnie-marie-chouinard-bodyremixlesvariationsgoldberg) <br/>
@@ -151,9 +151,7 @@ from robotics:
 
 > Computation and its imaginary are rich with contradictions, and loaded with metaphysical and ontological speculation. Underneath those contradictions and speculations lies an obsession with code that executes, the phantasm that words become flesh. It remains a phantasm, because again and again, the execution fails to match the boundless speculative expectations invested into it. Cultural and political semantics result merely from its dull formalisms and their interference with daily life, from account balance statements to “end-user software.” Formalisms create semantics in a wholly different way than people expect from an allegedly “intelligent machine.” Computers therefore exist, as hacker wisdom says, to solve problems which we would not even be aware of having if not for the computers themselves. — Florian Cramer
 
->The cultural history of computation shows that it is as rich and contradictory as that of any other symbolic form. It encompasses opposites, algorithms as a tool versus algorithms as a material of aesthetic play and speculation, computation as inner workings of nature (as in Pythagorean thought) or God (as in Kabbalah and magic) versus computation as culture and a medium of cultural reflection (starting with Oulipo and hacker cultures in the 1960s), computation as a means of abolishing semantics (Bense) versus computation as a means to structure and generate semantics (as in Lullism and Artificial Intelligence), computation as a means of generating totality (Quirinus Kuhlmann) versus computation as a means of taking things apart (Tzara, cut-ups), software as ontological freedom (GNU) versus software as ontological enslavement (Netochka Nezvanova), ecstatic computation (Kuhlmann, Kabbala, Burroughs) versus rationalist computation (from Leibniz to Turing) versus pataphysical computation as the parody of both rationalist and irrationalist computation (Oulipo and generative psychogeography), algorithm as expansion (Lullism, generative art) versus algorithm as constraint (Oulipo, net.art), code as chaotic imagination (Jodi, codeworks) versus code as structured description of chaos (Tzara, John Cage). — Florian Cramer
-
-[Quote Source](http://cramer.pleintekst.nl/00-recent/words_made_flesh/html/words_made_fleshch2.html#x5-40002)
+>The cultural history of computation shows that it is as rich and contradictory as that of any other symbolic form. It encompasses opposites, algorithms as a tool versus algorithms as a material of aesthetic play and speculation, computation as inner workings of nature (as in Pythagorean thought) or God (as in Kabbalah and magic) versus computation as culture and a medium of cultural reflection (starting with Oulipo and hacker cultures in the 1960s), computation as a means of abolishing semantics (Bense) versus computation as a means to structure and generate semantics (as in Lullism and Artificial Intelligence), computation as a means of generating totality (Quirinus Kuhlmann) versus computation as a means of taking things apart (Tzara, cut-ups), software as ontological freedom (GNU) versus software as ontological enslavement (Netochka Nezvanova), ecstatic computation (Kuhlmann, Kabbala, Burroughs) versus rationalist computation (from Leibniz to Turing) versus pataphysical computation as the parody of both rationalist and irrationalist computation (Oulipo and generative psychogeography), algorithm as expansion (Lullism, generative art) versus algorithm as constraint (Oulipo, net.art), code as chaotic imagination (Jodi, codeworks) versus code as structured description of chaos (Tzara, John Cage). — Florian Cramer [Quote Source](http://cramer.pleintekst.nl/00-recent/words_made_flesh/html/words_made_fleshch2.html#x5-40002)
 
 
 Languages for programming movement [reference](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf)
@@ -161,16 +159,18 @@ Languages for programming movement [reference](http://www.ppig.org/sites/ppig.or
 
 # Hacking Revisited
 
-**“Hacks, whether analog, digital or analogical, always target the system.”** 
+**“Hacks, whether analog, digital or analogical, always target the system.** 
 
 
-“…Manipulations, transformations, and unconventional redesigns of technical appliances which contain both analog or analog-electronic as well as digital components. (...) The brutality of a hack lies less in the tool itself than in the modus operandi and its purpose.” pp.198
-
-Verena Kuni essay: Analogital Hacks — Source: _Dominik Landwehr (Hg.): Hacking; Edition Digital Culture 2; Migros-Kulturprozent, Christoph Merian Verlag; Oktober 2014, Deutsch/Englisch, ISBN_
+…Manipulations, transformations, and unconventional redesigns of technical appliances which contain both analog or analog-electronic as well as digital components. (...) The brutality of a hack lies less in the tool itself than in the modus operandi and its purpose.” Verena Kuni essay: Analogital Hacks — Source: _Dominik Landwehr (Hg.): Hacking; Edition Digital Culture 2; Migros-Kulturprozent, Christoph Merian Verlag; Oktober 2014, Deutsch/Englisch, ISBN_
 
 
-- [Examples of a Hacker's community blog] (https://hackaday.io)  <br/>
-- [Hacker's spaces worldwide] (https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
+"A person capable of appreciating "hack value". [Definition of a Hacker](http://www.catb.org/jargon/html/H/hacker.html) &
+[Social Hacking, Revisited — Florian Cramer](http://artwarez.org/projects/nagBOOK/texte/florian_eng.html)
+
+
+- [Examples of a Hacker's community blog](https://hackaday.io)  <br/>
+- [Hacker's spaces worldwide](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
 
 
 [More references and definitions in this link.](https://github.com/JoBCB/HackingP3_2019/blob/master/Hacking_Glossaries_Meanings.md)
@@ -184,6 +184,6 @@ For information on the assignement; assessment criteria and schedule visit the o
 
 **Other Useful Links**
 
-[Research Theory Resources] (https://github.com/JoBCB/Rehearsal_Series/wiki/Open-Source-Resources)
+[Research Theory Resources](https://github.com/JoBCB/Rehearsal_Series/wiki/Open-Source-Resources)
 
-[Free software and Coding tools] (https://github.com/JoBCB/Rehearsal_Series/wiki/Coding-Tools-and-Free-Software)
+[Free software and Coding tools](https://github.com/JoBCB/Rehearsal_Series/wiki/Coding-Tools-and-Free-Software)
