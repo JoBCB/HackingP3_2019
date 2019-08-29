@@ -27,6 +27,14 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 **Classes Structure**
 
 
+
+**Useful Links**
+
+[Research Theory Resources] (https://github.com/JoBCB/Rehearsal_Series/wiki/Open-Source-Resources)
+
+[Free software and Coding tools] (https://github.com/JoBCB/Rehearsal_Series/wiki/Coding-Tools-and-Free-Software)
+
+
 # Hacking Revisited
 
 **“Hacks, whether analog, digital or analogical, always target the system.”** 
@@ -35,6 +43,9 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 “…Manipulations, transformations, and unconventional redesigns of technical appliances which contain both analog or analog-electronic as well as digital components. (...) The brutality of a hack lies less in the tool itself than in the modus operandi and its purpose.” pp.198
 
 Verena Kuni essay: Analogital Hacks — Source: _Dominik Landwehr (Hg.): Hacking; Edition Digital Culture 2; Migros-Kulturprozent, Christoph Merian Verlag; Oktober 2014, Deutsch/Englisch, ISBN_
+
+
+[Hacker's blog and Hacker's spaces worldwide] (https://hackaday.io)
 
 
 [More references and definitions in this link.](https://github.com/JoBCB/HackingP3_2019/blob/master/Hacking_Glossaries_Meanings.md)
