@@ -26,9 +26,9 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 		
 	* [Gesture & Program](##Gesture-and-Program)
 	
-		*
+		* < Body > Languages 
 		
-		*
+		* Data without a body
 
 		
 * [Hacking Revisited](#Hacking%20Revisited)
@@ -40,11 +40,17 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 **Method**
 
 Rehearsing: as a way of enhancing the idea of process over product: processes of becoming;
+
 Rehearsing: as a way to break the distancing between mind-body, self-other, subject-object, designer-design piece; discovery-invention. 
+
 Rehearsing: as a way of exploring new scenarios (beyond usership — spectatorship);
+
 Rehearsing: as a way to embody different 'action play roles’ and inter-dependent forms of agency;
+
 Rehearsing: as a way to rethink the construction of collective imaginaries and focus on collaboration;
+
 Rehearsing: as a way to  to generate new modes of thinking composition matters, participation, relations and articulations between bodies and technologies;
+
 Rehearsing: as a way to nurture practices of attention/ intention — how to render the body sensitive;
 
 [Continue reading](http://www.joanachicau.com/rehearsal_series.html)
