@@ -24,7 +24,7 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 		
 		* Making of a ‘collective body’;
 		
-	* [Gesture & Program](#Gesture-and-Program)
+	* [Gesture & Program](##Gesture-and-Program)
 	
 		*
 		
@@ -44,9 +44,9 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 ## Shaping Life{s} 
 
-<img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Orozco.jpg" width="300">
+<img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Orozco.jpg?display=inline-block" width="300">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Prague-golem-reproduction.jpg" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Prague-golem-reproduction.jpg?display=inline-block" width="300">
 
 Golem — in Jewish folklore, a golem is an animated anthropomorphic being that is magically created entirely from inanimate matter (usually clay or mud). The word was used to mean an amorphous, unformed material in Psalms and medieval writing. [Source](https://en.wikipedia.org/wiki/Golem)
 
