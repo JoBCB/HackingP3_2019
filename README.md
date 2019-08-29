@@ -39,29 +39,24 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 **Method**
 
-Rehearsing: as a way of enhancing the idea of process over product: processes of becoming;
-
+Rehearsing: as a way of enhancing the idea of process over product: processes of becoming; <br/>
 Rehearsing: as a way to break the distancing between mind-body, self-other, subject-object, designer-design piece; discovery-invention. 
-
-Rehearsing: as a way of exploring new scenarios (beyond usership — spectatorship);
-
-Rehearsing: as a way to embody different 'action play roles’ and inter-dependent forms of agency;
-
-Rehearsing: as a way to rethink the construction of collective imaginaries and focus on collaboration;
-
+Rehearsing: as a way of exploring new scenarios (beyond usership — spectatorship);<br/>
+Rehearsing: as a way to embody different 'action play roles’ and inter-dependent forms of agency;<br/>
+Rehearsing: as a way to rethink the construction of collective imaginaries and focus on collaboration;<br/>
 Rehearsing: as a way to  to generate new modes of thinking composition matters, participation, relations and articulations between bodies and technologies;
 
 Rehearsing: as a way to nurture practices of attention/ intention — how to render the body sensitive;
 
 [Continue reading](http://www.joanachicau.com/rehearsal_series.html)
 
-**Objectives of the classes**
+**Objectives**
 
-— Explore the notions of Hacking in connection to languages; gestures and protocols; 
-— Introduce the notion of Bio-hacking and body-data politics.
+— Introduce the notion of Hacking and Bio-hacking; references and different artistic approaches to body and data politics;
+— Explore the notions of Hacking and Bio-hacking in connection to languages; gestures; protocols.
 — Understand the broader sociocultural implications of the latter; and historical perspectives.
 — Experience a holistic process in which embodiment and movement studies play a central role;
-— Critically address the different topics and its different contexts 
+— Critically address the different topics and methods — its usages and contexts.
 
 
 # Theme and Structure
