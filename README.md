@@ -33,7 +33,7 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 		
 * [Hacking Revisited](#Hacking%20Revisited)
 
-* [+++ info] (#+++%20info)
+* [Notes] (#notes)
 
 # Methodology
 
@@ -165,7 +165,7 @@ Verena Kuni essay: Analogital Hacks — Source: _Dominik Landwehr (Hg.): Hacking
 
 ---
 
-# +++ info
+# Notes
 
 For information on the assignement; assessment criteria and schedule visit the official courses' website.
 
