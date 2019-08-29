@@ -7,11 +7,11 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 **Table of contents**
 
-* [Methology](##Methodology)
+* [Methology](###Methodology)
 
-* [Theme & Structure](##Theme-and-Structure)
+* [Theme & Structure](###Theme-and-Structure)
 
-* [Hacking Revisited](##Hacking%20Revisited)
+* [Hacking Revisited](###Hacking%20Revisited)
 
 
 ### Methodology
@@ -27,7 +27,7 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 **Classes Structure**
 
 
-## Hacking Revisited
+### Hacking Revisited
 
 “Hacks, whether analog, digital or analogical, always target the system.” pp. 201 _Dominik Landwehr (Hg.): Hacking; Edition Digital Culture 2; Migros-Kulturprozent, Christoph Merian Verlag; Oktober 2014, Deutsch/Englisch, ISBN_
 
