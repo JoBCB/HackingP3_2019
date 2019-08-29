@@ -29,8 +29,8 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 # Hacking Revisited
 
-“Hacks, whether analog, digital or analogical, always target the system.” 
-_
+**“Hacks, whether analog, digital or analogical, always target the system.”** 
+
 
 “…Manipulations, transformations, and unconventional redesigns of technical appliances which contain both analog or analog-electronic as well as digital components. (...) The brutality of a hack lies less in the tool itself than in the modus operandi and its purpose.” pp.198
 
