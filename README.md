@@ -91,8 +91,7 @@ _Right_ "Golem — in Jewish folklore, a golem is an animated anthropomorphic be
 
 _Refs:_
 
-- [Jara Rocha and Femke Snelting] (https://possiblebodies.constantvzw.org/inventory/?about)
-
+- [Jara Rocha and Femke Snelting] (https://possiblebodies.constantvzw.org/inventory/?about) <br/>
 - [Simone Niquille] (https://technofle.sh/)
 
 
@@ -115,26 +114,21 @@ _Refs:_
 
 on 'Hacking' the body/ies and environments: 
 
-[Rebecca Horn](https://www.youtube.com/watch?v=6uEkq3IBIf0)
-
-[Zach Blas] (http://www.zachblas.info/works/facial-weaponization-suite/)
-
-[Eric Minh Cuong Castaing 01](https://www.ballet-de-marseille.com/en/collaborations/performances/lrsquoacircge-d-or-45)
-
-[Eric Minh Cuong Castaing 02](https://www.ballet-de-marseille.com/en/collaborations/performances/phoenix-47)
-
-[Marie Chouinard] (https://www.dansedanse.ca/en/compagnie-marie-chouinard-bodyremixlesvariationsgoldberg)
-
+- [Rebecca Horn](https://www.youtube.com/watch?v=6uEkq3IBIf0)<br/>
+- [Zach Blas](http://www.zachblas.info/works/facial-weaponization-suite/) <br/>
+- [Eric Minh Cuong Castaing 01](https://www.ballet-de-marseille.com/en/collaborations/performances/lrsquoacircge-d-or-45) <br/>
+- [Eric Minh Cuong Castaing 02](https://www.ballet-de-marseille.com/en/collaborations/performances/phoenix-47) <br/>
+- [Marie Chouinard](https://www.dansedanse.ca/en/compagnie-marie-chouinard-bodyremixlesvariationsgoldberg) <br/>
 
 ---
 
 ## Gesture & Program
 
-<img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Gesture_Program.png" width="300">
+<img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Gesture_Program.png" width="800">
 
 ### < Body > Languages 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Items_from_the_primitive_medicine_section_Wellcome_L0029857.jpg" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Items_from_the_primitive_medicine_section_Wellcome_L0029857.jpg" width="800">
 
 > Computation and its imaginary are rich with contradictions, and loaded with metaphysical and ontological speculation. Underneath those contradictions and speculations lies an obsession with code that executes, the phantasm that words become flesh. It remains a phantasm, because again and again, the execution fails to match the boundless speculative expectations invested into it. Cultural and political semantics result merely from its dull formalisms and their interference with daily life, from account balance statements to “end-user software.” Formalisms create semantics in a wholly different way than people expect from an allegedly “intelligent machine.” Computers therefore exist, as hacker wisdom says, to solve problems which we would not even be aware of having if not for the computers themselves. — Florian Cramer
 
@@ -156,9 +150,8 @@ Languages for programming movement [reference](http://www.ppig.org/sites/ppig.or
 Verena Kuni essay: Analogital Hacks — Source: _Dominik Landwehr (Hg.): Hacking; Edition Digital Culture 2; Migros-Kulturprozent, Christoph Merian Verlag; Oktober 2014, Deutsch/Englisch, ISBN_
 
 
-[Examples of a Hacker's community blog] (https://hackaday.io)
-
-[Hacker's spaces worldwide] (https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
+- [Examples of a Hacker's community blog] (https://hackaday.io)  <br/>
+- [Hacker's spaces worldwide] (https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
 
 
 [More references and definitions in this link.](https://github.com/JoBCB/HackingP3_2019/blob/master/Hacking_Glossaries_Meanings.md)
