@@ -1,6 +1,6 @@
 # Hacking 3 (minor) 2019 — WdKA, Rotterdam
 Tutors: Ine Poppe and Joana Chicau (Practice); Mariana Aboim (Theory)
-
+<!-- comment -->
 jointly with Ceramic station & interventions with Sound & Image +  Interaction Station
 
 This document gathers resources by _Joana Chicau_ { Rotterdam based graphic designer, coder, researcher — with a background in dance. Her trans-disciplinary project interweaves web programming languages and environments with choreographic practices. In her practice she researches theintersection of the body with the constructed, designed, programmed environment, aiming at in widening the ways in whichdigital sciences is presented and made accessible to the public. She has been actively participating and organizing events with performances involving multi-location collaborative coding, algorithmic improvisation, open discussions on gender equality and activism. Recent work, news and updates: www.joanachicau.com }
@@ -34,7 +34,7 @@ Golem — in Jewish folklore, a golem is an animated anthropomorphic being that 
 
 		[1.1] From Organ to Organ-ization (Systems)
     
-![alt text](https://upload.wikimedia.org/wikipedia/commons/5/55/Foetal_positions_in_uterus%2C_pregnant_female_Wellcome_L0000845.jpg) <!-- .element height="50%" width="50%" -->
+![alt text](https://upload.wikimedia.org/wikipedia/commons/5/55/Foetal_positions_in_uterus%2C_pregnant_female_Wellcome_L0000845.jpg | width=100) 
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/0/04/Items_from_the_primitive_medicine_section_Wellcome_L0029857.jpg)
 
