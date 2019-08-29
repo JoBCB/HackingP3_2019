@@ -9,10 +9,31 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 * [Methology](#Methodology)
 
+
 * [Theme & Structure](#Theme-and-Structure)
 
+	* [Inspecting Bodies](##Inspecting-Bodies)
+
+		* From Organ to Organ-ization (Systems)
+		
+		* Natural, Artificial, Synthetic, Hybrid ...
+		
+	* [Embodyin Other Anatomies](##Embodyin-Other-Anatomies)
+	
+		* Reimagining bodies (on the floor and fiction)
+		
+		* Making of a ‘collective body’;
+		
+	* [Gesture & Program](#Gesture-and-Program)
+	
+		*
+		
+		*
+
+		
 * [Hacking Revisited](#Hacking%20Revisited)
 
+* [+++ info] (#+++%20info)
 
 # Methodology
 
@@ -23,27 +44,27 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 ## Shaping Life{s} 
 
+<img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Orozco.jpg" width="300">
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/9/9f/Prague-golem-reproduction.jpg "Golem")
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Prague-golem-reproduction.jpg" width="300">
 
 Golem — in Jewish folklore, a golem is an animated anthropomorphic being that is magically created entirely from inanimate matter (usually clay or mud). The word was used to mean an amorphous, unformed material in Psalms and medieval writing. [Source](https://en.wikipedia.org/wiki/Golem)
 
 ---
 
-	[1] Analysing bodies:
+## Inspecting Bodies:
 
-		[1.1] From Organ to Organ-ization (Systems)
+### From Organ to Organ-ization (Systems)
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Foetal_positions_in_uterus%2C_pregnant_female_Wellcome_L0000845.jpg" width="300">
  
-![alt text](https://upload.wikimedia.org/wikipedia/commons/5/55/Foetal_positions_in_uterus%2C_pregnant_female_Wellcome_L0000845.jpg) 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Items_from_the_primitive_medicine_section_Wellcome_L0029857.jpg" width="300">
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/0/04/Items_from_the_primitive_medicine_section_Wellcome_L0029857.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Vesalius-copy.jpg" width="300">
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/f/fb/Vesalius-copy.jpg)
+> Anatomy: deals with the structural organization of living things.  
 
-    
-[Anatomy: deals with the structural organization of living things.](https://en.wikipedia.org/wiki/Anatomy)
+[Source:](https://en.wikipedia.org/wiki/Anatomy)
 
 
 _Refs:_
@@ -52,12 +73,13 @@ _Refs:_
 [Simone Niquille] (https://technofle.sh/)
 
 
-![alt text](https://www.dansedanse.ca/sites/default/files/cmc-body_3-_0.jpg)
+<img src="https://www.dansedanse.ca/sites/default/files/cmc-body_3-_0.jpg" width="300">
 
 
-		[1.2] Artificial, Synthetic, Hybrid ...
+### Natural, Artificial, Synthetic, Hybrid ...
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/8/81/Eiserne_Hand_Glasnegativ_6_cropped.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Eiserne_Hand_Glasnegativ_6_cropped.jpg" width="300">
+
 
 > "a prosthesis (plural: prostheses; from Ancient Greek prosthesis, "addition, application, attachment")"
 [https://en.wikipedia.org/wiki/Prosthesis](https://en.wikipedia.org/wiki/Prosthesis)
@@ -65,31 +87,32 @@ _Refs:_
 > "Marshall McLuhan took such ideas further. In his terminology, the extensions of man are all media. In "Understanding Media" he suggested that, "any invention of technology is an extension of our physical bodies, and such extension also demands new ratios or new equilibriums among the other organs and extensions of the body" (1964, p.55).
 The upshot is that,"by continuously embracing technologies, we relate to them as servomechanisms. That is why we must, to use them at all, serve these objects, these extensions of ourselves, as gods or minor religions" (p.56)."" [Source: Articial Organs](http://www.nous.org.uk/art.org.html)
 
-![alt text](https://www.dansedanse.ca/sites/default/files/cmc-body_3-_0.jpg)
+<img src="https://www.dansedanse.ca/sites/default/files/cmc-body_3-_0.jpg" width="300">
 
----
 
-_Ref:_
+_Refs:_
 
 [Rebecca Horn](https://www.youtube.com/watch?v=6uEkq3IBIf0)
 
-![alt text](https://github.com/JoBCB/HackingP3_2019/blob/master/Orozco.jpg "Orozco")
+
+---
+
+## Gesture & Program
+
+<img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Gesture_Program.png" width="300">
+
 
 **“These creatures that were made, not born”**
 
-![alt text](https://github.com/JoBCB/HackingP3_2019/blob/master/Gods_and_Robots_Myths_and_Machines.md "Read text")
+Read "Gods_and_Robots_Myths_and_Machines" — [Intro Text Here](https://github.com/JoBCB/HackingP3_2019/blob/master/Gods_and_Robots_Myths_and_Machines.md)
 
-![alt text](https://github.com/JoBCB/HackingP3_2019/blob/master/Gesture_Program.png "Gesture and Program")
+### < Body > Languages 
 
+> Computation and its imaginary are rich with contradictions, and loaded with metaphysical and ontological speculation. Underneath those contradictions and speculations lies an obsession with code that executes, the phantasm that words become flesh. It remains a phantasm, because again and again, the execution fails to match the boundless speculative expectations invested into it. Cultural and political semantics result merely from its dull formalisms and their interference with daily life, from account balance statements to “end-user software.” Formalisms create semantics in a wholly different way than people expect from an allegedly “intelligent machine.” Computers therefore exist, as hacker wisdom says, to solve problems which we would not even be aware of having if not for the computers themselves. — Florian Cramer
 
+>The cultural history of computation shows that it is as rich and contradictory as that of any other symbolic form. It encompasses opposites, algorithms as a tool versus algorithms as a material of aesthetic play and speculation, computation as inner workings of nature (as in Pythagorean thought) or God (as in Kabbalah and magic) versus computation as culture and a medium of cultural reflection (starting with Oulipo and hacker cultures in the 1960s), computation as a means of abolishing semantics (Bense) versus computation as a means to structure and generate semantics (as in Lullism and Artificial Intelligence), computation as a means of generating totality (Quirinus Kuhlmann) versus computation as a means of taking things apart (Tzara, cut-ups), software as ontological freedom (GNU) versus software as ontological enslavement (Netochka Nezvanova), ecstatic computation (Kuhlmann, Kabbala, Burroughs) versus rationalist computation (from Leibniz to Turing) versus pataphysical computation as the parody of both rationalist and irrationalist computation (Oulipo and generative psychogeography), algorithm as expansion (Lullism, generative art) versus algorithm as constraint (Oulipo, net.art), code as chaotic imagination (Jodi, codeworks) versus code as structured description of chaos (Tzara, John Cage). — Florian Cramer
 
-
-
-**Useful Links**
-
-[Research Theory Resources] (https://github.com/JoBCB/Rehearsal_Series/wiki/Open-Source-Resources)
-
-[Free software and Coding tools] (https://github.com/JoBCB/Rehearsal_Series/wiki/Coding-Tools-and-Free-Software)
+[Source](http://cramer.pleintekst.nl/00-recent/words_made_flesh/html/words_made_fleshch2.html#x5-40002)
 
 
 # Hacking Revisited
@@ -111,4 +134,13 @@ Verena Kuni essay: Analogital Hacks — Source: _Dominik Landwehr (Hg.): Hacking
 
 ---
 
+# +++ info
+
 For information on the assignement; assessment criteria and schedule visit the official courses' website.
+
+
+**Other Useful Links**
+
+[Research Theory Resources] (https://github.com/JoBCB/Rehearsal_Series/wiki/Open-Source-Resources)
+
+[Free software and Coding tools] (https://github.com/JoBCB/Rehearsal_Series/wiki/Coding-Tools-and-Free-Software)
