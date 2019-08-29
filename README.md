@@ -23,7 +23,7 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 **Themes and Concepts to be explored**
 
-## Shaping Life<s> 
+## Shaping Life{s} 
 
 ![alt text](https://commons.wikimedia.org/wiki/File:Prague-golem-reproduction.jpg "Golem")
 
