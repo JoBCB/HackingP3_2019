@@ -76,7 +76,7 @@ _Right_ "Golem — in Jewish folklore, a golem is an animated anthropomorphic be
 
 ### From Organ to Organ-ization (Systems)
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Foetal_positions_in_uterus%2C_pregnant_female_Wellcome_L0000845.jpg" width="300">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Foetal_positions_in_uterus%2C_pregnant_female_Wellcome_L0000845.jpg" width="400">
  
 > Anatomy: deals with the structural organization of living things.  
 
@@ -98,12 +98,12 @@ _Refs:_
 
 ### Natural, Artificial, Synthetic, Hybrid ...
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Eiserne_Hand_Glasnegativ_6_cropped.jpg" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Eiserne_Hand_Glasnegativ_6_cropped.jpg" width="400">
 
 > "a prosthesis (plural: prostheses; from Ancient Greek prosthesis, "addition, application, attachment")"
 [https://en.wikipedia.org/wiki/Prosthesis](https://en.wikipedia.org/wiki/Prosthesis)
 
-<img src="https://www.dansedanse.ca/sites/default/files/cmc-body_3-_0.jpg" width="300">
+<img src="https://www.dansedanse.ca/sites/default/files/cmc-body_3-_0.jpg" width="600">
 
 > "Marshall McLuhan took such ideas further. In his terminology, the extensions of man are all media. In "Understanding Media" he suggested that, "any invention of technology is an extension of our physical bodies, and such extension also demands new ratios or new equilibriums among the other organs and extensions of the body" (1964, p.55).
 The upshot is that,"by continuously embracing technologies, we relate to them as servomechanisms. That is why we must, to use them at all, serve these objects, these extensions of ourselves, as gods or minor religions" (p.56)."" [Source: Articial Organs](http://www.nous.org.uk/art.org.html)
@@ -124,11 +124,11 @@ on 'Hacking' the body/ies and environments:
 
 ## Gesture & Program
 
-<img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Gesture_Program.png" width="800">
+<img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Gesture_Program.png" width="600">
 
 ### < Body > Languages 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Items_from_the_primitive_medicine_section_Wellcome_L0029857.jpg" width="800">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Items_from_the_primitive_medicine_section_Wellcome_L0029857.jpg" width="600">
 
 > Computation and its imaginary are rich with contradictions, and loaded with metaphysical and ontological speculation. Underneath those contradictions and speculations lies an obsession with code that executes, the phantasm that words become flesh. It remains a phantasm, because again and again, the execution fails to match the boundless speculative expectations invested into it. Cultural and political semantics result merely from its dull formalisms and their interference with daily life, from account balance statements to “end-user software.” Formalisms create semantics in a wholly different way than people expect from an allegedly “intelligent machine.” Computers therefore exist, as hacker wisdom says, to solve problems which we would not even be aware of having if not for the computers themselves. — Florian Cramer
 
