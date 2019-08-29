@@ -34,8 +34,12 @@ Golem — in Jewish folklore, a golem is an animated anthropomorphic being that 
 
 		[1.1] From Organ to Organ-ization (Systems)
     
-![alt text](https://upload.wikimedia.org/wikipedia/commons/5/55/Foetal_positions_in_uterus%2C_pregnant_female_Wellcome_L0000845.jpg)
-   
+![alt text](https://upload.wikimedia.org/wikipedia/commons/5/55/Foetal_positions_in_uterus%2C_pregnant_female_Wellcome_L0000845.jpg) <!-- .element height="50%" width="50%" -->
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/0/04/Items_from_the_primitive_medicine_section_Wellcome_L0029857.jpg)
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/f/fb/Vesalius-copy.jpg)
+
     
 [Anatomy: deals with the structural organization of living things.](https://en.wikipedia.org/wiki/Anatomy)
 
