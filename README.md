@@ -33,11 +33,9 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 		
 * [Hacking Revisited](#Hacking%20Revisited)
 
-* [+++ info] (#+++ info)
+* [+++ info] (#+++%20info)
 
 # Methodology
-
-**Method**
 
 \ Rehearsing: as a way of enhancing the idea of process over product: processes of becoming; <br/>
 / Rehearsing: as a way to break the distancing between mind-body, self-other, subject-object, designer-design piece; discovery-invention. 
@@ -49,12 +47,12 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 [Continue reading](http://www.joanachicau.com/rehearsal_series.html)
 
-**Objectives**
+**Objectives:**
 
-— Introduce the notion of Hacking and Bio-hacking; references and different artistic approaches to body and data politics;
-— Explore the notions of Hacking and Bio-hacking in connection to languages; gestures; protocols.
-— Understand the broader sociocultural implications of the latter; and historical perspectives.
-— Experience a holistic process in which embodiment and movement studies play a central role;
+— Introduce the notion of Hacking and Bio-hacking; references and different artistic approaches to body and data politics; <br/>
+— Explore the notions of Hacking and Bio-hacking in connection to languages; gestures; protocols. <br/>
+— Understand the broader sociocultural implications of the latter; and historical perspectives. <br/>
+— Experience a holistic process in which embodiment and movement studies play a central role; <br/>
 — Critically address the different topics and methods — its usages and contexts.
 
 
@@ -66,9 +64,13 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 Read "Gods_and_Robots_Myths_and_Machines" — [Intro Text Here](https://github.com/JoBCB/HackingP3_2019/blob/master/Gods_and_Robots_Myths_and_Machines.md)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Prague-golem-reproduction.jpg" width="300">
 
-Golem — in Jewish folklore, a golem is an animated anthropomorphic being that is magically created entirely from inanimate matter (usually clay or mud). The word was used to mean an amorphous, unformed material in Psalms and medieval writing. [Source](https://en.wikipedia.org/wiki/Golem)
+<img src="https://github.com/JoBCB/HackingP3_2019/blob/master/orozco_golem.png" width="300">
+
+Left: [ Gabriel Orozco. My Hands Are My Heart. 1991](https://www.moma.org/multimedia/audio/174/1909)
+
+
+Right: "Golem — in Jewish folklore, a golem is an animated anthropomorphic being that is magically created entirely from inanimate matter (usually clay or mud). The word was used to mean an amorphous, unformed material in Psalms and medieval writing." [Source](https://en.wikipedia.org/wiki/Golem)
 
 
 ---
@@ -81,7 +83,7 @@ Golem — in Jewish folklore, a golem is an animated anthropomorphic being that 
  
 > Anatomy: deals with the structural organization of living things.  
 
-[Source:](https://en.wikipedia.org/wiki/Anatomy)
+[Source](https://en.wikipedia.org/wiki/Anatomy)
 
 > Ergonomics (or human factors) is the scientific discipline concerned with the understanding of interactions among humans and other elements of a system, and the profession that applies theory, principles, data and methods to design to optimize human well-being and overall system performance. 
 
@@ -131,13 +133,7 @@ on 'Hacking' the body/ies and environments:
 
 ## Gesture & Program
 
-<img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Orozco.jpg" width="300">
-
-[ Gabriel Orozco. My Hands Are My Heart. 1991](https://www.moma.org/multimedia/audio/174/1909)
-
 <img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Gesture_Program.png" width="300">
-
-
 
 ### < Body > Languages 
 
