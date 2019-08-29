@@ -115,7 +115,8 @@ _Refs on 'hacking' body/ies and environments:_
 body and data
 
 - [Amy Karle](https://www.amykarle.com/project/biofeedback/) <br/>
-- [Institute of Human Obsolescence](http://speculative.capital)
+- [Institute of Human Obsolescence](http://speculative.capital)  <br/>
+- [Martha Rosler](https://www.youtube.com/watch?v=b91_vZ8TauM) <br/>
 
 body and surveillance:
 
