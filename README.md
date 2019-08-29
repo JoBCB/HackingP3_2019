@@ -37,6 +37,25 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 # Methodology
 
+**Method**
+
+Rehearsing: as a way of enhancing the idea of process over product: processes of becoming;
+Rehearsing: as a way to break the distancing between mind-body, self-other, subject-object, designer-design piece; discovery-invention. 
+Rehearsing: as a way of exploring new scenarios (beyond usership — spectatorship);
+Rehearsing: as a way to embody different 'action play roles’ and inter-dependent forms of agency;
+Rehearsing: as a way to rethink the construction of collective imaginaries; and focus on collaboration;
+Rehearsing: as a way to  to generate new modes of thinking composition matters, participation, relations and articulations between bodies and technologies;
+Rehearsing: as a way to nurture practices of attention/ intention — how to render the body sensitive;
+
+[Continue reading](http://www.joanachicau.com/rehearsal_series.html)
+
+**Objectives of the classes**
+
+— Explore the notions of Hacking in connection to languages; gestures and protocols; 
+— Introduce the notion of Bio-hacking and body politics.
+— Understand the broader sociocultural implications of the latter; and historical perspectives.
+— Experience a holistic process in which embodiment and movement studies play a central role;
+— Critically address the different topics and its different contexts 
 
 **Rehearsing as Method**
 
@@ -44,9 +63,9 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 ## Shaping Life{s} 
 
-<img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Orozco.jpg?display=inline-block" width="300">
+<img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Orozco.jpg" width="300" style="display: inline-block;>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Prague-golem-reproduction.jpg?display=inline-block" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Prague-golem-reproduction.jpg" width="300" style="display: inline-block;>
 
 Golem — in Jewish folklore, a golem is an animated anthropomorphic being that is magically created entirely from inanimate matter (usually clay or mud). The word was used to mean an amorphous, unformed material in Psalms and medieval writing. [Source](https://en.wikipedia.org/wiki/Golem)
 
