@@ -19,6 +19,10 @@ to make a clever, benign, and ethical prank or practical joke.
 "Hack, hacker or hacking? These concepts can be imagined as expansive, limiting and/or controversial depending on the socio-cultural forces at play." [TransHackFeminist Manifesto!](https://transhackfeminist.noblogs.org/post/2014/07/29/transhackfeminist-manifesto/)
 
 
+"A person capable of appreciating "hack value". [Definition of a Hacker](http://www.catb.org/jargon/html/H/hacker.html) &
+[Social Hacking, Revisited — Florian Cramer](http://artwarez.org/projects/nagBOOK/texte/florian_eng.html)
+
+
 ---
 
 ## Notes the book: 
