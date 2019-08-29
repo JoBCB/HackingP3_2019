@@ -1,8 +1,10 @@
 
-“These creatures that were made, not born”
+**“These creatures that were made, not born”**
+
+…
 
 
-The question of what it meant to be human obsessed the ancient Greeks. Time and again, their stories explore the promises and perils of staving off age and death, enhancing mortals’ capabilities, replicating nature. The complex network of myths about Prometheus, Jason and the Argonauts, Medea, Daedalus, Hephaestus, Talos, and Pandora—all raised basic questions about the boundaries between biological and manufactured beings. The most enduring, best- loved Greek myths—along with many other long-forgotten ancient tales—spin thrilling adventures well worth knowing for their own sake. But when we recognize the old stories as inquiries into **biotechne (bios, life; techne, craft)**, these “science actions” of antiquity take on new significance. 
+"The question of what it meant to be human obsessed the ancient Greeks. Time and again, their stories explore the promises and perils of staving off age and death, enhancing mortals’ capabilities, replicating nature. The complex network of myths about Prometheus, Jason and the Argonauts, Medea, Daedalus, Hephaestus, Talos, and Pandora—all raised basic questions about the boundaries between biological and manufactured beings. The most enduring, best- loved Greek myths—along with many other long-forgotten ancient tales—spin thrilling adventures well worth knowing for their own sake. But when we recognize the old stories as inquiries into **biotechne (bios, life; techne, craft)**, these “science actions” of antiquity take on new significance. 
 
 …
 
@@ -21,6 +23,7 @@ Biotechne stories, perpetuated over millennia, are a testament to the persistenc
 
 …
 
-The rise of a Robot– Artificial Intelligence “culture” no longer seems far-fetched. AI’s human inventors and mentors are already building the Robot-AI culture’s logos (logic), ethos (moral values), and pathos (emotions). As humans are enhanced by technology and become more like machines, robots are becoming infused with something like humanity. We are approaching what some call the new dawn of Robo-Humanity. 
+The rise of a Robot– Artificial Intelligence “culture” no longer seems far-fetched. AI’s human inventors and mentors are already building the Robot-AI culture’s logos (logic), ethos (moral values), and pathos (emotions). As humans are enhanced by technology and become more like machines, robots are becoming infused with something like humanity. We are approaching what some call the new dawn of Robo-Humanity."
+
 
 _Mayor, A 2018, Gods and Robots: Myths, Machines, and Ancient Dreams of Technology, Princeton University Press, Princeton._ 
