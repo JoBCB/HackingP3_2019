@@ -63,7 +63,7 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 "Gods_and_Robots_Myths_and_Machines" — [Link — text to read](https://github.com/JoBCB/HackingP3_2019/blob/master/Gods_and_Robots_Myths_and_Machines.md)
 
 
-<img src="https://github.com/JoBCB/HackingP3_2019/blob/master/orozco_golem.png" width="500">
+<img src="https://github.com/JoBCB/HackingP3_2019/blob/master/orozco_golem.png" width="800">
 
 Left: [ Gabriel Orozco. My Hands Are My Heart. 1991](https://www.moma.org/multimedia/audio/174/1909)
 
