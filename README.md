@@ -23,6 +23,18 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 **Themes and Concepts to be explored**
 
+##Shaping Life<s> 
+
+![alt text](https://commons.wikimedia.org/wiki/File:Prague-golem-reproduction.jpg "Golem")
+
+
+Golem — in Jewish folklore, a golem is an animated anthropomorphic being that is magically created entirely from inanimate matter (usually clay or mud). The word was used to mean an amorphous, unformed material in Psalms and medieval writing. [Source](https://en.wikipedia.org/wiki/Golem)
+
+
+![alt text](https://github.com/JoBCB/HackingP3_2019/blob/master/Orozco.jpg "Orozco")
+
+
+![alt text](https://github.com/JoBCB/HackingP3_2019/blob/master/Orozco.jpg "Orozco")
 
 **Classes Structure**
 
