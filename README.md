@@ -98,7 +98,7 @@ _Refs:_
 
 ### Natural, Artificial, Synthetic, Hybrid ...
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Eiserne_Hand_Glasnegativ_6_cropped.jpg" width="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Prosthetic_toe.jpg" width="400">
 
 > "a prosthesis (plural: prostheses; from Ancient Greek prosthesis, "addition, application, attachment")"
 [https://en.wikipedia.org/wiki/Prosthesis](https://en.wikipedia.org/wiki/Prosthesis)
