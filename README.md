@@ -18,7 +18,7 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 		
 		* Natural, Artificial, Synthetic, Hybrid ...
 		
-	* [Embodyin Other Anatomies](##Embodyin-Other-Anatomies)
+	* [Embodyin Other Anatomies](##Embodying-Other-Anatomies)
 	
 		* Reimagining bodies (on the floor and fiction)
 		
@@ -33,20 +33,19 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 		
 * [Hacking Revisited](#Hacking%20Revisited)
 
-* [+++ info] (#+++%20info)
+* [+++ info] (#+++ info)
 
 # Methodology
 
 **Method**
 
-Rehearsing: as a way of enhancing the idea of process over product: processes of becoming; <br/>
-Rehearsing: as a way to break the distancing between mind-body, self-other, subject-object, designer-design piece; discovery-invention. 
-Rehearsing: as a way of exploring new scenarios (beyond usership — spectatorship);<br/>
-Rehearsing: as a way to embody different 'action play roles’ and inter-dependent forms of agency;<br/>
-Rehearsing: as a way to rethink the construction of collective imaginaries and focus on collaboration;<br/>
-Rehearsing: as a way to  to generate new modes of thinking composition matters, participation, relations and articulations between bodies and technologies;
-
-Rehearsing: as a way to nurture practices of attention/ intention — how to render the body sensitive;
+\ Rehearsing: as a way of enhancing the idea of process over product: processes of becoming; <br/>
+/ Rehearsing: as a way to break the distancing between mind-body, self-other, subject-object, designer-design piece; discovery-invention. 
+\ Rehearsing: as a way of exploring new scenarios (beyond usership — spectatorship); <br/>
+/ Rehearsing: as a way to embody different 'action play roles’ and inter-dependent forms of agency; <br/>
+\ Rehearsing: as a way to rethink the construction of collective imaginaries and focus on collaboration; <br/>
+/ Rehearsing: as a way to  to generate new modes of thinking composition matters, participation, relations and articulations between bodies and technologies; <br/>
+\ Rehearsing: as a way to nurture practices of attention/ intention — how to render the body sensitive; 
 
 [Continue reading](http://www.joanachicau.com/rehearsal_series.html)
 
@@ -61,7 +60,7 @@ Rehearsing: as a way to nurture practices of attention/ intention — how to ren
 
 # Theme and Structure
 
-## Shaping Life{s} 
+## Shaping Life{/s} 
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Prague-golem-reproduction.jpg" width="300">
@@ -70,7 +69,7 @@ Golem — in Jewish folklore, a golem is an animated anthropomorphic being that 
 
 ---
 
-## Inspecting Bodies:
+## Inspecting Bodies
 
 ### From Organ to Organ-ization (Systems)
 
@@ -149,10 +148,10 @@ Read "Gods_and_Robots_Myths_and_Machines" — [Intro Text Here](https://github.c
 
 >The cultural history of computation shows that it is as rich and contradictory as that of any other symbolic form. It encompasses opposites, algorithms as a tool versus algorithms as a material of aesthetic play and speculation, computation as inner workings of nature (as in Pythagorean thought) or God (as in Kabbalah and magic) versus computation as culture and a medium of cultural reflection (starting with Oulipo and hacker cultures in the 1960s), computation as a means of abolishing semantics (Bense) versus computation as a means to structure and generate semantics (as in Lullism and Artificial Intelligence), computation as a means of generating totality (Quirinus Kuhlmann) versus computation as a means of taking things apart (Tzara, cut-ups), software as ontological freedom (GNU) versus software as ontological enslavement (Netochka Nezvanova), ecstatic computation (Kuhlmann, Kabbala, Burroughs) versus rationalist computation (from Leibniz to Turing) versus pataphysical computation as the parody of both rationalist and irrationalist computation (Oulipo and generative psychogeography), algorithm as expansion (Lullism, generative art) versus algorithm as constraint (Oulipo, net.art), code as chaotic imagination (Jodi, codeworks) versus code as structured description of chaos (Tzara, John Cage). — Florian Cramer
 
-[Source](http://cramer.pleintekst.nl/00-recent/words_made_flesh/html/words_made_fleshch2.html#x5-40002)
+[Quote Source](http://cramer.pleintekst.nl/00-recent/words_made_flesh/html/words_made_fleshch2.html#x5-40002)
 
 
-[Programming Movement](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf)
+Languages for programming movement [reference](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf)
 
 
 # Hacking Revisited
