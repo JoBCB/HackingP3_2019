@@ -62,10 +62,14 @@ This document gathers resources by _Joana Chicau_ { Rotterdam based graphic desi
 
 ## Shaping Life{/s} 
 
+**“These creatures that were made, not born”**
+
+Read "Gods_and_Robots_Myths_and_Machines" — [Intro Text Here](https://github.com/JoBCB/HackingP3_2019/blob/master/Gods_and_Robots_Myths_and_Machines.md)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Prague-golem-reproduction.jpg" width="300">
 
 Golem — in Jewish folklore, a golem is an animated anthropomorphic being that is magically created entirely from inanimate matter (usually clay or mud). The word was used to mean an amorphous, unformed material in Psalms and medieval writing. [Source](https://en.wikipedia.org/wiki/Golem)
+
 
 ---
 
@@ -133,11 +137,6 @@ on 'Hacking' the body/ies and environments:
 
 <img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Gesture_Program.png" width="300">
 
-
-
-**“These creatures that were made, not born”**
-
-Read "Gods_and_Robots_Myths_and_Machines" — [Intro Text Here](https://github.com/JoBCB/HackingP3_2019/blob/master/Gods_and_Robots_Myths_and_Machines.md)
 
 
 ### < Body > Languages 
