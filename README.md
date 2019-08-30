@@ -3,7 +3,7 @@ Tutors: Ine Poppe and Joana Chicau (Practice); Mariana Aboim (Theory)
 <!-- comment -->
 jointly with Ceramic station & interventions with Sound & Image +  Interaction Station
 
-This document gathers resources by [Joana Chicau](www.joanachicau.com ) {Rotterdam based graphic designer, coder, researcher — with a background in dance. Her trans-disciplinary project interweaves web programming languages and environments with choreographic practices. In her practice she researches theintersection of the body with the constructed, designed, programmed environment, aiming at in widening the ways in whichdigital sciences is presented and made accessible to the public. She has been actively participating and organizing events with performances involving multi-location collaborative coding, algorithmic improvisation, open discussions on gender equality and activism.}
+This document gathers resources on the classes facilitated by [Joana Chicau](www.joanachicau.com ) — a Rotterdam based graphic designer, coder, researcher — with a background in dance. Her trans-disciplinary project interweaves web programming languages and environments with choreographic practices. In her practice she researches theintersection of the body with the constructed, designed, programmed environment, aiming at in widening the ways in whichdigital sciences is presented and made accessible to the public. She has been actively participating and organizing events with performances involving multi-location collaborative coding, algorithmic improvisation, open discussions on gender equality and activism.
 
 **Table of contents**
 
@@ -168,6 +168,8 @@ Languages for programming movement [reference](http://www.ppig.org/sites/ppig.or
 - [Examples of a Hacker's community blog](https://hackaday.io)  <br/>
 - [Hacker's spaces worldwide](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
 
+- [Hacker's spaces events in Holland](https://wiki.techinc.nl/index.php/Events )  <br/>
+- [Hacker's spaces events worldwide](https://wiki.hackerspaces.org/Events )
 
 [More references and definitions in this link.](https://github.com/JoBCB/HackingP3_2019/blob/master/Hacking_Glossaries_Meanings.md)
 
