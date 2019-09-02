@@ -138,17 +138,21 @@ _Image:_ Project Sparthan — 3D printable prosthetic hands. [Source](https://pr
 > "Marshall McLuhan took such ideas further. In his terminology, the extensions of man are all media. In "Understanding Media" he suggested that, "any invention of technology is an extension of our physical bodies, and such extension also demands new ratios or new equilibriums among the other organs and extensions of the body" (1964, p.55).
 The upshot is that,"by continuously embracing technologies, we relate to them as servomechanisms. That is why we must, to use them at all, serve these objects, these extensions of ourselves, as gods or minor religions" (p.56)."" [Source: Articial Organs](http://www.nous.org.uk/art.org.html)
 
-> From DIY biohacking to mass customisation or being "programmed on-demand".
 
-[Grinder](https://en.wikipedia.org/wiki/Grinder_(biohacking)<br/>
+<img src="https://motherboard-images.vice.com/content-images/contentimage/no-id/1435180020339658.jpg?resize=943:*" width="400">
+
+_Image:_ The neurostimulator mounted in Pleij's back. [Source](https://www.vice.com/en_us/article/mgbd7a/the-half-life-of-body-hacking)
+
+**From DIY biohacking to mass customisation or being "programmed on-demand"**
+
+[Grinder](https://en.wikipedia.org/wiki/Grinder_(biohacking)) <br/>
 [Do-it-yourself biology](https://en.wikipedia.org/wiki/Do-it-yourself_biology)
 
-
-<img src="https://www.dansedanse.ca/sites/default/files/cmc-body_3-_0.jpg" width="600">
 
 _Further references_
 
 body and data: <br/>
+⋅⋅⋅[Documentary](https://www.youtube.com/watch?v=clIiP1H3Opw)
 ⋅⋅⋅[Cyborg Arts](https://www.cyborgarts.com/)
 ⋅⋅⋅[Amy Karle](https://www.amykarle.com/project/biofeedback/) <br/>
 ⋅⋅⋅[Institute of Human Obsolescence](http://speculative.capital)  <br/>
@@ -164,7 +168,6 @@ body and wearables:<br/>
 from choreography:<br/>
 ⋅⋅⋅[Eric Minh Cuong Castaing 01](https://www.ballet-de-marseille.com/en/collaborations/performances/lrsquoacircge-d-or-45) <br/>
 ⋅⋅⋅[Eric Minh Cuong Castaing 02](https://www.ballet-de-marseille.com/en/collaborations/performances/phoenix-47) <br/>
-⋅⋅⋅[Marie Chouinard](https://www.dansedanse.ca/en/compagnie-marie-chouinard-bodyremixlesvariationsgoldberg) <br/>
 
 from robotics:<br/>
 ⋅⋅⋅[Alter 3](https://robotreporters.com/alter-3-robot-conducts-android-opera-in-japan-exploring-the-future-of-human-communication/)
@@ -172,6 +175,11 @@ from robotics:<br/>
 ---
 
 ## Embodying-Other-Anatomies
+
+<img src="https://www.dansedanse.ca/sites/default/files/cmc-body_3-_0.jpg" width="800">
+
+_Image:_ [Source: Marie Chouinard](https://www.dansedanse.ca/en/compagnie-marie-chouinard-bodyremixlesvariationsgoldberg) <br/>
+
 
 		* Reimagining bodies (on the floor and fiction)*
 		
