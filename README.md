@@ -186,12 +186,13 @@ _Image:_ [Source: Marie Chouinard](https://www.dansedanse.ca/en/compagnie-marie-
 
 <img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Gesture_Program.png" width="600">
 
+
 > In computer science, a software agent is a computer program that acts for a user or other program in a relationship of agency, which derives from the Latin **agere (to do)**: an agreement to act on one's behalf. Such "action on behalf of" implies the authority to decide which, if any, action is appropriate. Agents are colloquially known as bots, from robot. They may be embodied, as when execution is paired with a robot body, or as software such as a chatbot executing on a phone (e.g. Siri) or other computing device. Software agents may be autonomous or work together with other agents or people. Software agents interacting with people (e.g. chatbots, human-robot interaction environments) may possess human-like qualities such as natural language understanding and speech, personality or embody humanoid form. 
 
 > Related and derived concepts include intelligent agents (in particular exhibiting some aspects of artificial intelligence, such as reasoning), autonomous agents (capable of modifying the methods of achieving their objectives), distributed agents (being executed on physically distinct computers), multi-agent systems (distributed agents that work together to achieve an objective that could not be accomplished by a single agent acting alone), and mobile agents (agents that can relocate their execution onto different processors). [Source](https://en.wikipedia.org/wiki/Software_agent)
 
 
-<img src="https://upload.wikimedia.org/wikipedia/en/6/6c/Tay_bot_logo.jpg" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/en/6/6c/Tay_bot_logo.jpg" width="200">
 
 _Image:_ Tay was an artificial intelligence chatter bot that was originally released by Microsoft Corporation via Twitter (2016); [Source](https://en.wikipedia.org/wiki/Tay_(bot))
 
@@ -207,7 +208,10 @@ See also: [Anthropomorphising](https://en.wikipedia.org/wiki/Anthropomorphism)
 
 > Computation and its imaginary are rich with contradictions, and loaded with metaphysical and ontological speculation. Underneath those contradictions and speculations lies an obsession with code that executes, the phantasm that words become flesh. It remains a phantasm, because again and again, the execution fails to match the boundless speculative expectations invested into it. Cultural and political semantics result merely from its dull formalisms and their interference with daily life, from account balance statements to “end-user software.” Formalisms create semantics in a wholly different way than people expect from an allegedly “intelligent machine.” Computers therefore exist, as hacker wisdom says, to solve problems which we would not even be aware of having if not for the computers themselves. — Florian Cramer
 
-<img src="https://www.kaaitheater.be/sites/default/files/styles/1200x800/public/1516/HelloHiThere_1___steirischer_herbst_w._silveri.jpeg" width="600"> [Hello Hi There — Annie Dorsen](http://www.anniedorsen.com/showproject.php?id=6) <br/>
+
+<img src="https://www.kaaitheater.be/sites/default/files/styles/1200x800/public/1516/HelloHiThere_1___steirischer_herbst_w._silveri.jpeg" width="600"> <br/>
+[Hello Hi There — Annie Dorsen](http://www.anniedorsen.com/showproject.php?id=6) <br/>
+
 
 >The cultural history of computation shows that it is as rich and contradictory as that of any other symbolic form. It encompasses opposites, algorithms as a tool versus algorithms as a material of aesthetic play and speculation, computation as inner workings of nature (as in Pythagorean thought) or God (as in Kabbalah and magic) versus computation as culture and a medium of cultural reflection (starting with Oulipo and hacker cultures in the 1960s), computation as a means of abolishing semantics (Bense) versus computation as a means to structure and generate semantics (as in Lullism and Artificial Intelligence), computation as a means of generating totality (Quirinus Kuhlmann) versus computation as a means of taking things apart (Tzara, cut-ups), software as ontological freedom (GNU) versus software as ontological enslavement (Netochka Nezvanova), ecstatic computation (Kuhlmann, Kabbala, Burroughs) versus rationalist computation (from Leibniz to Turing) versus pataphysical computation as the parody of both rationalist and irrationalist computation (Oulipo and generative psychogeography), algorithm as expansion (Lullism, generative art) versus algorithm as constraint (Oulipo, net.art), code as chaotic imagination (Jodi, codeworks) versus code as structured description of chaos (Tzara, John Cage). — Florian Cramer [Quote Source](http://cramer.pleintekst.nl/00-recent/words_made_flesh/html/words_made_fleshch2.html#x5-40002)
 
