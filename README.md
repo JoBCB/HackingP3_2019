@@ -14,19 +14,19 @@ This document gathers resources on the classes facilitated by [Joana Chicau](www
 
 	* [Inspecting Bodies](##Inspecting-Bodies)
 
-		* From Organ to Organ-ization
+		* From Organ to Organ-ization.
 		
-		* On the Natural, the Artificial, the Synthetic, the Hybrid, and beyond
+		* The Natural, the Artificial, the Hybrid, and beyond.
 		
 	* [Embodying Other Anatomies](##Embodying-Other-Anatomies)
 	
-		* Reimagining bodies (on the floor & fiction)
+		* Reimagining bodies (on the floor & fiction).
 		
 		* Making of a ‘collective body’
 		
 	* [Gesture & Program](##Gesture-and-Program)
 	
-		* < Body/ies > Languages 
+		* < Body/ies > Languages. 
 		
 		
 * [Hacking Revisited](#Hacking%20Revisited)
@@ -75,7 +75,7 @@ _Right_ "Golem — in Jewish folklore, a golem is an animated anthropomorphic be
 
 ## Inspecting Bodies
 
-### From Organ to Organ-ization (Systems)
+### From Organ to Organ-ization
 
 <img src="https://anatomiesofintelligence.github.io/img/poster/De-humani-corporis-fabrica.png" width="600">
 
@@ -123,7 +123,10 @@ _Further references_
 ⋅⋅⋅[Kate Cooper](https://www.stedelijk.nl/en/digdeeper/kate-cooper)
 
 
-### Natural, Artificial, Synthetic, Hybrid ...
+### The Natural, the Artificial, the Hybrid, and beyond.
+
+_From DIY biohacking to mass customisation or being "programmed on-demand"_
+
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Eiserne_Hand_Glasnegativ_6_cropped.jpg" width="500">
 
@@ -138,15 +141,12 @@ _Image:_ Project Sparthan — 3D printable prosthetic hands. [Source](https://pr
 > "Marshall McLuhan took such ideas further. In his terminology, the extensions of man are all media. In "Understanding Media" he suggested that, "any invention of technology is an extension of our physical bodies, and such extension also demands new ratios or new equilibriums among the other organs and extensions of the body" (1964, p.55).
 The upshot is that,"by continuously embracing technologies, we relate to them as servomechanisms. That is why we must, to use them at all, serve these objects, these extensions of ourselves, as gods or minor religions" (p.56)."" [Source: Articial Organs](http://www.nous.org.uk/art.org.html)
 
-
 <img src="https://motherboard-images.vice.com/content-images/contentimage/no-id/1435180020339658.jpg?resize=943:*" width="400">
 
 _Image:_ The neurostimulator mounted in Pleij's back. [Source](https://www.vice.com/en_us/article/mgbd7a/the-half-life-of-body-hacking)
 
-**From DIY biohacking to mass customisation or being "programmed on-demand"**
-
-[Grinder](https://en.wikipedia.org/wiki/Grinder_(biohacking)) <br/>
-[Do-it-yourself biology](https://en.wikipedia.org/wiki/Do-it-yourself_biology)
+> According to Biohack.me, "Grinders are passionate individuals who believe the tools and knowledge of science belong to everyone. Grinders practice functional extreme body modification in an effort to improve the human condition. [Grinders] hack [them]selves with electronic hardware to extend and improve human capacities. Grinders believe in action, [thei]r bodies the experiment." [Source](https://en.wikipedia.org/wiki/Grinder_(biohacking)) <br/>
+See also: [Do-it-yourself biology](https://en.wikipedia.org/wiki/Do-it-yourself_biology)
 
 
 _Further references_
@@ -160,17 +160,12 @@ body and data: <br/>
 
 body and surveillance:<br/>
 ⋅⋅⋅[Zach Blas](http://www.zachblas.info/works/facial-weaponization-suite/) <br/>
-
-body and wearables:<br/>
-⋅⋅⋅[Rebecca Horn](https://www.youtube.com/watch?v=6uEkq3IBIf0)<br/>
-⋅⋅⋅[Various Examples](https://www.dezeen.com/tag/wearable-technology/)
-
-from choreography:<br/>
-⋅⋅⋅[Eric Minh Cuong Castaing 01](https://www.ballet-de-marseille.com/en/collaborations/performances/lrsquoacircge-d-or-45) <br/>
 ⋅⋅⋅[Eric Minh Cuong Castaing 02](https://www.ballet-de-marseille.com/en/collaborations/performances/phoenix-47) <br/>
 
-from robotics:<br/>
-⋅⋅⋅[Alter 3](https://robotreporters.com/alter-3-robot-conducts-android-opera-in-japan-exploring-the-future-of-human-communication/)
+body augmentation and wearables:<br/>
+⋅⋅⋅[Eric Minh Cuong Castaing 01](https://www.ballet-de-marseille.com/en/collaborations/performances/lrsquoacircge-d-or-45) <br/>
+⋅⋅⋅[Rebecca Horn](https://www.youtube.com/watch?v=6uEkq3IBIf0)<br/>
+⋅⋅⋅[Various Examples](https://www.dezeen.com/tag/wearable-technology/)
 
 ---
 
@@ -206,17 +201,24 @@ See also: [Anthropomorphising](https://en.wikipedia.org/wiki/Anthropomorphism)
 >The cultural history of computation shows that it is as rich and contradictory as that of any other symbolic form. It encompasses opposites, algorithms as a tool versus algorithms as a material of aesthetic play and speculation, computation as inner workings of nature (as in Pythagorean thought) or God (as in Kabbalah and magic) versus computation as culture and a medium of cultural reflection (starting with Oulipo and hacker cultures in the 1960s), computation as a means of abolishing semantics (Bense) versus computation as a means to structure and generate semantics (as in Lullism and Artificial Intelligence), computation as a means of generating totality (Quirinus Kuhlmann) versus computation as a means of taking things apart (Tzara, cut-ups), software as ontological freedom (GNU) versus software as ontological enslavement (Netochka Nezvanova), ecstatic computation (Kuhlmann, Kabbala, Burroughs) versus rationalist computation (from Leibniz to Turing) versus pataphysical computation as the parody of both rationalist and irrationalist computation (Oulipo and generative psychogeography), algorithm as expansion (Lullism, generative art) versus algorithm as constraint (Oulipo, net.art), code as chaotic imagination (Jodi, codeworks) versus code as structured description of chaos (Tzara, John Cage). — Florian Cramer [Quote Source](http://cramer.pleintekst.nl/00-recent/words_made_flesh/html/words_made_fleshch2.html#x5-40002)
 
 
-_Refs. on 'hacking' body/ies and languages:_ 
+<img src="https://upload.wikimedia.org/wikipedia/en/6/6c/Tay_bot_logo.jpg" width="300">
 
-- [Choy Ka Fai](http://www.ka5.info/prospectus.html)  <br/>
-- [Winnie Soon](http://siusoon.net/vocable-code/)<br/>
-- [Women Reclaiming AI](https://womenreclaimingai.com/)<br/>
-- [Feminist AI](https://www.feminist.ai/)<br/>
-- [A bestiary of languages for programming movement](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf)<br/>
-
+_Image:_ Tay was an artificial intelligence chatter bot that was originally released by Microsoft Corporation via Twitter (2016); [Source](https://en.wikipedia.org/wiki/Tay_(bot))
 
 > "Material agency includes bodies and social structures but also technologies as in the case of computational nano/bio-technologies presenting new human machine assemblages and hybrid forms. Barad’s claim is that agency is emergent through the ‘inter-action’ of elements and signals different and distinct agencies acting together. In the case of the archive we need to account for social practices and human bodies, but also various nonhuman agents as part of this machinic assemblage. Our example is the way a program can only be understood as part of a distributive agency that includes the programmer, computer, network, factory worker, and wider scientific, military, economic, medical, political system within which data is materialised." [Data-body: human and nonhuman agency in the documents of Kurenniemi](http://activearchives.org/wiki/Archiving_the_Data-body:_human_and_nonhuman_agency_in_the_documents_of_Kurenniemi#Data_Bodies)
 
+
+_Further references:_ 
+
+⋅⋅⋅[Esoteric Codes](https://esoteric.codes/)
+⋅⋅⋅[Choy Ka Fai](http://www.ka5.info/prospectus.html)  <br/>
+⋅⋅⋅[Winnie Soon](http://siusoon.net/vocable-code/)<br/>
+⋅⋅⋅[Women Reclaiming AI](https://womenreclaimingai.com/)<br/>
+⋅⋅⋅[Feminist AI](https://www.feminist.ai/)<br/>
+⋅⋅⋅[A bestiary of languages for programming movement](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf)<br/>
+
+from robotics:<br/>
+⋅⋅⋅[Alter 3](https://robotreporters.com/alter-3-robot-conducts-android-opera-in-japan-exploring-the-future-of-human-communication/)
 
 # Hacking Revisited
 
