@@ -125,13 +125,13 @@ _Further references_
 
 ### Natural, Artificial, Synthetic, Hybrid ...
 
-<img src="https://en.wikipedia.org/wiki/Prosthesis#/media/File:Eiserne_Hand_Glasnegativ_6_cropped.jpg" width="600">
+<img src="hhttps://upload.wikimedia.org/wikipedia/commons/8/81/Eiserne_Hand_Glasnegativ_6_cropped.jpg" width="500">
 
 _Image:_ Iron prosthetic hand believed to have been owned by Götz von Berlichingen (1480–1562)
 
 > "A prosthesis (plural: prostheses; from Ancient Greek prosthesis, "addition, application, attachment")" [Source](https://en.wikipedia.org/wiki/Prosthesis)
 
-<img src="https://images.collection.cooperhewitt.org/91935_46fcdfc962a73599_b.jpg" width="600">
+<img src="https://images.collection.cooperhewitt.org/91935_46fcdfc962a73599_b.jpg" width="500">
 
 _Image:_ Prosthetic Hand, Modular Prosthetic Limb (MPL) v. 1.0, 2009 aluminum, steel, printed circuit boards, select polymers. JHU Applied Physics Lab. 
 
