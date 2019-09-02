@@ -33,9 +33,9 @@ This document gathers resources on the classes facilitated by [Joana Chicau](www
 
 * [+++ info](#+++%20info)
 
-# Intro
+# Introduction
 
-### Themes and aims:
+### Theme and Objectives:
 
 \ Explore the notions of Hacking in connection to bodies, technologies and automation; <br/>
 / Introduce the notion of Bio-hacking;  <br/>
