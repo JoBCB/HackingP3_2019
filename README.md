@@ -7,35 +7,44 @@ This document gathers resources on the classes facilitated by [Joana Chicau](www
 
 **Table of contents**
 
-* [Methology](#Methodology)
+* [Introduction](#Introduction)
 
 
-* [Theme & Structure](#Theme-and-Structure)
+* [SHAPING LIFE{/S}](#SHAPING-LIFE{/S})
 
 	* [Inspecting Bodies](##Inspecting-Bodies)
 
-		* From Organ to Organ-ization (Systems)
+		* From Organ to Organ-ization
 		
-		* Natural, Artificial, Synthetic, Hybrid ...
+		* On the Natural, the Artificial, the Synthetic, the Hybrid, and beyond
 		
 	* [Embodyin Other Anatomies](##Embodying-Other-Anatomies)
 	
-		* Reimagining bodies (on the floor and fiction)
+		* Reimagining bodies (on the floor & fiction)
 		
-		* Making of a ‘collective body’;
+		* Making of a ‘collective body’
 		
 	* [Gesture & Program](##Gesture-and-Program)
 	
-		* < Body > Languages 
+		* < Body/ies > Languages 
 		
-		* Data without a body
-
 		
 * [Hacking Revisited](#Hacking%20Revisited)
 
 * [+++ info](#+++%20info)
 
-# Methodology
+# Intro
+
+### Main topics and objectives:
+
+\ Explore the notions of Hacking in connection to bodies, technologies and automation; <br/>
+/ Introduce the notion of Bio-hacking;  <br/>
+\ Understand the underlying histories and broader sociocultural implications of the latter;  <br/>
+/ Experience a holistic process in which embodiment and movement studies play a central role [see methology](###Methodology) <br/>
+\  Critically address the different topics, methods and its different contexts. 
+
+
+### Methology
 
 \ Rehearsing: as a way of enhancing the idea of process over product: processes of becoming; <br/>
 / Rehearsing: as a way to break the distancing between mind-body, self-other, subject-object, designer-design piece; discovery-invention. <br/>
@@ -43,20 +52,12 @@ This document gathers resources on the classes facilitated by [Joana Chicau](www
 / Rehearsing: as a way to embody different 'action play roles’ and inter-dependent forms of agency; <br/>
 \ Rehearsing: as a way to rethink the construction of collective imaginaries and focus on collaboration; <br/>
 / Rehearsing: as a way to  to generate new modes of thinking composition matters, participation, relations and articulations between bodies and technologies; <br/>
-\ Rehearsing: as a way to nurture practices of attention/ intention — how to render the body sensitive; 
+\ Rehearsing: as a way to nurture practices of attention/ intention — how to render the body sensitive. 
 
-**Objectives:**
-
-\ Introduce the notion of Hacking and Bio-hacking; references and different artistic approaches to body and data politics; <br/>
-/ Explore the notions of Hacking and Bio-hacking in connection to languages; gestures; protocols. <br/>
-\ Understand the broader sociocultural implications of the latter; and historical perspectives. <br/>
-/ Experience a holistic process in which embodiment and movement studies play a central role; <br/>
-\ Critically address the different topics and methods — its usages and contexts.
+[Continue reading](http://www.joanachicau.com/rehearsal_series.html)
 
 
-# Theme and Structure
-
-**SHAPING LIFE{/S}** 
+# SHAPING LIFE{/S}
 
 	“These creatures that were made, not born”
 
@@ -89,10 +90,11 @@ _Right_ "Golem — in Jewish folklore, a golem is an animated anthropomorphic be
 [Source](https://en.wikipedia.org/wiki/Human_factors_and_ergonomics)
 
 
-_Refs:_
+_Refs. on computer-generated female form and its associations with labour and representation:_
 
 - [Jara Rocha and Femke Snelting](https://possiblebodies.constantvzw.org/inventory/?about) <br/>
 - [Simone Niquille](https://technofle.sh/)
+— [Kate Cooper](https://www.stedelijk.nl/en/digdeeper/kate-cooper)
 
 
 
@@ -108,12 +110,17 @@ _Refs:_
 > "Marshall McLuhan took such ideas further. In his terminology, the extensions of man are all media. In "Understanding Media" he suggested that, "any invention of technology is an extension of our physical bodies, and such extension also demands new ratios or new equilibriums among the other organs and extensions of the body" (1964, p.55).
 The upshot is that,"by continuously embracing technologies, we relate to them as servomechanisms. That is why we must, to use them at all, serve these objects, these extensions of ourselves, as gods or minor religions" (p.56)."" [Source: Articial Organs](http://www.nous.org.uk/art.org.html)
 
+> From DIY biohacking to mass customisation or being "programmed on-demand".
+
+[Grinder](https://en.wikipedia.org/wiki/Grinder_(biohacking)<br/>
+[Do-it-yourself biology](https://en.wikipedia.org/wiki/Do-it-yourself_biology)
 
 
-_Refs on 'hacking' body/ies and environments:_ 
+_Refs. on 'hacking' body/ies and environments:_ 
 
 body and data
 
+- [Cyborg Arts](https://www.cyborgarts.com/)
 - [Amy Karle](https://www.amykarle.com/project/biofeedback/) <br/>
 - [Institute of Human Obsolescence](http://speculative.capital)  <br/>
 - [Martha Rosler](https://www.youtube.com/watch?v=b91_vZ8TauM) <br/>
@@ -142,9 +149,23 @@ from robotics:
 
 ---
 
+## Embodying-Other-Anatomies
+
+		* Reimagining bodies (on the floor and fiction)*
+		
+		* Making of a ‘collective body’ and how to negotiate ambient sociality.*
+
+---
+
 ## Gesture & Program
 
 <img src="https://github.com/JoBCB/HackingP3_2019/blob/master/Gesture_Program.png" width="600">
+
+> In computer science, a software agent is a computer program that acts for a user or other program in a relationship of agency, which derives from the Latin **agere (to do)**: an agreement to act on one's behalf. Such "action on behalf of" implies the authority to decide which, if any, action is appropriate. Agents are colloquially known as bots, from robot. They may be embodied, as when execution is paired with a robot body, or as software such as a chatbot executing on a phone (e.g. Siri) or other computing device. Software agents may be autonomous or work together with other agents or people. Software agents interacting with people (e.g. chatbots, human-robot interaction environments) may possess human-like qualities such as natural language understanding and speech, personality or embody humanoid form. 
+
+> Related and derived concepts include intelligent agents (in particular exhibiting some aspects of artificial intelligence, such as reasoning), autonomous agents (capable of modifying the methods of achieving their objectives), distributed agents (being executed on physically distinct computers), multi-agent systems (distributed agents that work together to achieve an objective that could not be accomplished by a single agent acting alone), and mobile agents (agents that can relocate their execution onto different processors). [Source](https://en.wikipedia.org/wiki/Software_agent)
+
+See also: [Anthropomorphising](https://en.wikipedia.org/wiki/Anthropomorphism) 
 
 ### < Body > Languages 
 
@@ -155,7 +176,13 @@ from robotics:
 >The cultural history of computation shows that it is as rich and contradictory as that of any other symbolic form. It encompasses opposites, algorithms as a tool versus algorithms as a material of aesthetic play and speculation, computation as inner workings of nature (as in Pythagorean thought) or God (as in Kabbalah and magic) versus computation as culture and a medium of cultural reflection (starting with Oulipo and hacker cultures in the 1960s), computation as a means of abolishing semantics (Bense) versus computation as a means to structure and generate semantics (as in Lullism and Artificial Intelligence), computation as a means of generating totality (Quirinus Kuhlmann) versus computation as a means of taking things apart (Tzara, cut-ups), software as ontological freedom (GNU) versus software as ontological enslavement (Netochka Nezvanova), ecstatic computation (Kuhlmann, Kabbala, Burroughs) versus rationalist computation (from Leibniz to Turing) versus pataphysical computation as the parody of both rationalist and irrationalist computation (Oulipo and generative psychogeography), algorithm as expansion (Lullism, generative art) versus algorithm as constraint (Oulipo, net.art), code as chaotic imagination (Jodi, codeworks) versus code as structured description of chaos (Tzara, John Cage). — Florian Cramer [Quote Source](http://cramer.pleintekst.nl/00-recent/words_made_flesh/html/words_made_fleshch2.html#x5-40002)
 
 
-Languages for programming movement [reference](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf)
+_Refs. on 'hacking' body/ies and languages:_ 
+
+[Winnie Soon](http://siusoon.net/vocable-code/)
+[Women Reclaiming AI](https://womenreclaimingai.com/)
+[Feminist AI](https://www.feminist.ai/)
+
+[A bestiary of languages for programming movement](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf)
 
 
 # Hacking Revisited
@@ -164,6 +191,9 @@ Languages for programming movement [reference](http://www.ppig.org/sites/ppig.or
 
 
 …Manipulations, transformations, and unconventional redesigns of technical appliances which contain both analog or analog-electronic as well as digital components. (...) The brutality of a hack lies less in the tool itself than in the modus operandi and its purpose.” Verena Kuni essay: Analogital Hacks — Source: _Dominik Landwehr (Hg.): Hacking; Edition Digital Culture 2; Migros-Kulturprozent, Christoph Merian Verlag; Oktober 2014, Deutsch/Englisch, ISBN_
+
+- [Podcasts on 'Hacking' Cultures](https://www.lullabot.com/podcasts/hacking-culture)
+— [Hacking Forensics](https://labs.rs/en/metadata/)
 
 - [Examples of a Hacker's community blog](https://hackaday.io)  <br/>
 - [Hacker's spaces worldwide](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
