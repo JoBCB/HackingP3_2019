@@ -10,7 +10,7 @@ This document gathers resources on the classes facilitated by [Joana Chicau](www
 * [Introduction](#Introduction)
 
 
-* [SHAPING LIFE{/S}](#SHAPING-LIFE{/S})
+* [Main topics and Structure](#Main-topics-and-Structure)
 
 	* [Inspecting Bodies](##Inspecting-Bodies)
 
@@ -35,7 +35,7 @@ This document gathers resources on the classes facilitated by [Joana Chicau](www
 
 # Intro
 
-### Main topics and objectives:
+### Themes and aims:
 
 \ Explore the notions of Hacking in connection to bodies, technologies and automation; <br/>
 / Introduce the notion of Bio-hacking;  <br/>
@@ -57,7 +57,7 @@ This document gathers resources on the classes facilitated by [Joana Chicau](www
 [Continue reading](http://www.joanachicau.com/rehearsal_series.html)
 
 
-# SHAPING LIFE{/S}
+# Main topics and Structure
 
 	“These creatures that were made, not born”
 
