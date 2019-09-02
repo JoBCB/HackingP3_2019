@@ -125,15 +125,15 @@ _Further references_
 
 ### Natural, Artificial, Synthetic, Hybrid ...
 
-<img src="hhttps://upload.wikimedia.org/wikipedia/commons/8/81/Eiserne_Hand_Glasnegativ_6_cropped.jpg" width="500">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Eiserne_Hand_Glasnegativ_6_cropped.jpg" width="500">
 
 _Image:_ Iron prosthetic hand believed to have been owned by Götz von Berlichingen (1480–1562)
 
 > "A prosthesis (plural: prostheses; from Ancient Greek prosthesis, "addition, application, attachment")" [Source](https://en.wikipedia.org/wiki/Prosthesis)
 
-<img src="https://images.collection.cooperhewitt.org/91935_46fcdfc962a73599_b.jpg" width="500">
+<img src="https://project-sparthan.github.io/images/product.jpg" width="500">
 
-_Image:_ Prosthetic Hand, Modular Prosthetic Limb (MPL) v. 1.0, 2009 aluminum, steel, printed circuit boards, select polymers. JHU Applied Physics Lab. 
+_Image:_ Project Sparthan — 3D printable prosthetic hands. [Source](https://project-sparthan.github.io/)
 
 > "Marshall McLuhan took such ideas further. In his terminology, the extensions of man are all media. In "Understanding Media" he suggested that, "any invention of technology is an extension of our physical bodies, and such extension also demands new ratios or new equilibriums among the other organs and extensions of the body" (1964, p.55).
 The upshot is that,"by continuously embracing technologies, we relate to them as servomechanisms. That is why we must, to use them at all, serve these objects, these extensions of ourselves, as gods or minor religions" (p.56)."" [Source: Articial Organs](http://www.nous.org.uk/art.org.html)
