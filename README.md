@@ -83,6 +83,9 @@ _Image:_ De humani corporis fabrica libri septem (Latin for "On the fabric of th
  
 > Anatomy: deals with the structural organization of living things. [Source](https://en.wikipedia.org/wiki/Anatomy)
 
+Also see recent entries [Anatomies of Intelligence Catalog](https://anatomiesofintelligence.github.io/catalogue.html)
+
+
  <img src="https://images.collection.cooperhewitt.org/84985_c578795c9e2d950c_b.jpg" width="400">
 
 _Image:_ Template, Humanscale 7b: Seated at Work Selector, 1981 
