@@ -79,15 +79,21 @@ _Right_ "Golem — in Jewish folklore, a golem is an animated anthropomorphic be
 
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Foetal_positions_in_uterus%2C_pregnant_female_Wellcome_L0000845.jpg" width="400">
  
-> Anatomy: deals with the structural organization of living things.  
+> Anatomy: deals with the structural organization of living things. [Source](https://en.wikipedia.org/wiki/Anatomy)
 
-[Source](https://en.wikipedia.org/wiki/Anatomy)
+ <img src="https://images.collection.cooperhewitt.org/84985_c578795c9e2d950c_b.jpg" width="400">
 
-> Ergonomics (or human factors) is the scientific discipline concerned with the understanding of interactions among humans and other elements of a system, and the profession that applies theory, principles, data and methods to design to optimize human well-being and overall system performance. 
+_Image_ Template, Humanscale 7b: Seated at Work Selector, 1981 
 
-> Physical ergonomics is concerned with human anatomy, and some of the anthropometric, physiological and bio mechanical characteristics as they relate to physical activity.
+> "Originally published by iconic design firm Henry Dreyfuss Associates between 1974 and 1981, Humanscale is a masterfully crafted quick-reference guide for designing objects, interactions, and environments for humans." [Source](https://humanscalemanual.com/)
 
-[Source](https://en.wikipedia.org/wiki/Human_factors_and_ergonomics)
+> Ergonomics (or human factors) is the scientific discipline concerned with the understanding of interactions among humans and other elements of a system, and the profession that applies theory, principles, data and methods to design to optimize human well-being and overall system performance. (...) Physical ergonomics is concerned with human anatomy, and some of the anthropometric, physiological and bio mechanical characteristics as they relate to physical activity. [Source](https://en.wikipedia.org/wiki/Human_factors_and_ergonomics)
+
+ <img src="https://research-development.hetnieuweinstituut.nl/sites/default/files/styles/width_1024/public/06_imgf0016.png?itok=WA8rPHEY" width="400">
+
+_Image_ 06 CAESAR database used as training set in the research towards a parametric three-dimensional body model for animation. “Method for providing a threedimensional body model,” Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V., 2015. [CAESAR® The most comprehensive source for body measurement data](http://store.sae.org/caesar/)
+
+[Continue reading](https://research-development.hetnieuweinstituut.nl/en/fellows/fragility-life)
 
 > MakeHuman is '3D computer graphics middleware designed for the prototyping of photo realistic humanoids' and has gained visibility and popularity over time. It is actively developed by a collective of programmers, algorithms, modelers and academics and used by amateur animators to prototype modeling, by natural history museums for creating exhibition displays, by engineers to test multi-camera systems and by game-developers for sketching bespoke characters. Developers and users evidently work together to define and codify the conditions of presence for virtual bodies in MakeHuman. Since each of the agents in this collective somehow operates under the Modern regime of representation, we find the software full of assumptions about the naturality of perspective-based and linear representations, the essential properties of the species and so forth. Through its curious naming the project evokes the demiurg, dreaming of 'making' 'humans'to resemble his own image, the deviceful naming is a reminder of how the semiotic-material secrets of life's flows are strongly linked to the way software represents or allows bodies to be represented. [Source](https://possiblebodies.constantvzw.org/inventory/?017)
 
@@ -97,27 +103,29 @@ _Right_ "Golem — in Jewish folklore, a golem is an animated anthropomorphic be
 
 
 
-_Refs. on computer-generated female form and its associations with labour and representation:_
+_Further references_
 
 [Blenderella](https://cloud.blender.org/p/blenderella/)
+
 
 [Uterus Man](https://www.nytimes.com/2015/11/27/world/asia/china-art-lu-yang-venice-biennale.html)<br/>
 [Uterus Man — video](https://vimeo.com/82164043)<br/>
 
 
-- [Simone Niquille](https://technofle.sh/)
-— [Kate Cooper](https://www.stedelijk.nl/en/digdeeper/kate-cooper)
+[Uncanny Valley — "The battle for photoreal CGI"](https://vimeo.com/237568588)<br/>
+["..beautiful 3D visualizations deliver ultra-close-up views inside the human body."](https://ars.electronica.art/center/en/exhibitions/deepspace/theuniversewithin/)
 
+⋅⋅⋅[Simone Niquille](https://technofle.sh/)<br/>
+⋅⋅⋅[Kate Cooper](https://www.stedelijk.nl/en/digdeeper/kate-cooper)
 
 
 ### Natural, Artificial, Synthetic, Hybrid ...
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Prosthetic_toe.jpg" width="400">
 
-> "a prosthesis (plural: prostheses; from Ancient Greek prosthesis, "addition, application, attachment")"
-[https://en.wikipedia.org/wiki/Prosthesis](https://en.wikipedia.org/wiki/Prosthesis)
+> "a prosthesis (plural: prostheses; from Ancient Greek prosthesis, "addition, application, attachment")" [Source](https://en.wikipedia.org/wiki/Prosthesis)
 
-<img src="https://www.dansedanse.ca/sites/default/files/cmc-body_3-_0.jpg" width="600">
+<img src="https://images.collection.cooperhewitt.org/91935_46fcdfc962a73599_b.jpg" width="600">
 
 > "Marshall McLuhan took such ideas further. In his terminology, the extensions of man are all media. In "Understanding Media" he suggested that, "any invention of technology is an extension of our physical bodies, and such extension also demands new ratios or new equilibriums among the other organs and extensions of the body" (1964, p.55).
 The upshot is that,"by continuously embracing technologies, we relate to them as servomechanisms. That is why we must, to use them at all, serve these objects, these extensions of ourselves, as gods or minor religions" (p.56)."" [Source: Articial Organs](http://www.nous.org.uk/art.org.html)
@@ -128,35 +136,30 @@ The upshot is that,"by continuously embracing technologies, we relate to them as
 [Do-it-yourself biology](https://en.wikipedia.org/wiki/Do-it-yourself_biology)
 
 
-_Refs. on 'hacking' body/ies and environments:_ 
+<img src="https://www.dansedanse.ca/sites/default/files/cmc-body_3-_0.jpg" width="600">
 
-body and data
+_Further references_
 
-- [Cyborg Arts](https://www.cyborgarts.com/)
-- [Amy Karle](https://www.amykarle.com/project/biofeedback/) <br/>
-- [Institute of Human Obsolescence](http://speculative.capital)  <br/>
-- [Martha Rosler](https://www.youtube.com/watch?v=b91_vZ8TauM) <br/>
+body and data: <br/>
+⋅⋅⋅[Cyborg Arts](https://www.cyborgarts.com/)
+⋅⋅⋅[Amy Karle](https://www.amykarle.com/project/biofeedback/) <br/>
+⋅⋅⋅[Institute of Human Obsolescence](http://speculative.capital)  <br/>
+⋅⋅⋅[Martha Rosler](https://www.youtube.com/watch?v=b91_vZ8TauM) <br/>
 
-body and surveillance:
+body and surveillance:<br/>
+⋅⋅⋅[Zach Blas](http://www.zachblas.info/works/facial-weaponization-suite/) <br/>
 
-- [Zach Blas](http://www.zachblas.info/works/facial-weaponization-suite/) <br/>
+body and wearables:<br/>
+⋅⋅⋅[Rebecca Horn](https://www.youtube.com/watch?v=6uEkq3IBIf0)<br/>
+⋅⋅⋅[Various Examples](https://www.dezeen.com/tag/wearable-technology/)
 
+from choreography:<br/>
+⋅⋅⋅[Eric Minh Cuong Castaing 01](https://www.ballet-de-marseille.com/en/collaborations/performances/lrsquoacircge-d-or-45) <br/>
+⋅⋅⋅[Eric Minh Cuong Castaing 02](https://www.ballet-de-marseille.com/en/collaborations/performances/phoenix-47) <br/>
+⋅⋅⋅[Marie Chouinard](https://www.dansedanse.ca/en/compagnie-marie-chouinard-bodyremixlesvariationsgoldberg) <br/>
 
-body and wearables:
-
-- [Rebecca Horn](https://www.youtube.com/watch?v=6uEkq3IBIf0)<br/>
-- [Various Examples](https://www.dezeen.com/tag/wearable-technology/)
-
-
-from choreography:
-
-- [Eric Minh Cuong Castaing 01](https://www.ballet-de-marseille.com/en/collaborations/performances/lrsquoacircge-d-or-45) <br/>
-- [Eric Minh Cuong Castaing 02](https://www.ballet-de-marseille.com/en/collaborations/performances/phoenix-47) <br/>
-- [Marie Chouinard](https://www.dansedanse.ca/en/compagnie-marie-chouinard-bodyremixlesvariationsgoldberg) <br/>
-
-from robotics:
-
-- [Alter 3](https://robotreporters.com/alter-3-robot-conducts-android-opera-in-japan-exploring-the-future-of-human-communication/)
+from robotics:<br/>
+⋅⋅⋅[Alter 3](https://robotreporters.com/alter-3-robot-conducts-android-opera-in-japan-exploring-the-future-of-human-communication/)
 
 ---
 
