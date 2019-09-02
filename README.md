@@ -18,7 +18,7 @@ This document gathers resources on the classes facilitated by [Joana Chicau](www
 		
 		* On the Natural, the Artificial, the Synthetic, the Hybrid, and beyond
 		
-	* [Embodyin Other Anatomies](##Embodying-Other-Anatomies)
+	* [Embodying Other Anatomies](##Embodying-Other-Anatomies)
 	
 		* Reimagining bodies (on the floor & fiction)
 		
