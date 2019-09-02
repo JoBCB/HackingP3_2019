@@ -89,10 +89,22 @@ _Right_ "Golem — in Jewish folklore, a golem is an animated anthropomorphic be
 
 [Source](https://en.wikipedia.org/wiki/Human_factors_and_ergonomics)
 
+> MakeHuman is '3D computer graphics middleware designed for the prototyping of photo realistic humanoids' and has gained visibility and popularity over time. It is actively developed by a collective of programmers, algorithms, modelers and academics and used by amateur animators to prototype modeling, by natural history museums for creating exhibition displays, by engineers to test multi-camera systems and by game-developers for sketching bespoke characters. Developers and users evidently work together to define and codify the conditions of presence for virtual bodies in MakeHuman. Since each of the agents in this collective somehow operates under the Modern regime of representation, we find the software full of assumptions about the naturality of perspective-based and linear representations, the essential properties of the species and so forth. Through its curious naming the project evokes the demiurg, dreaming of 'making' 'humans'to resemble his own image, the deviceful naming is a reminder of how the semiotic-material secrets of life's flows are strongly linked to the way software represents or allows bodies to be represented. [Source](https://possiblebodies.constantvzw.org/inventory/?017)
+
+[The MakeHuman — 3D Humanoid Representations](https://interfacemanifesto.hangar.org/index.php/The_MakeHuman_bugreport_v0.2)<br/>
+[The MakeHuman — video](https://possiblebodies.constantvzw.org/inventory/assets/reMakeHuman/reMakehuman.mp4)<br/>
+[Makehuman Community](http://www.makehumancommunity.org/)<br/>
+
+
 
 _Refs. on computer-generated female form and its associations with labour and representation:_
 
-- [Jara Rocha and Femke Snelting](https://possiblebodies.constantvzw.org/inventory/?about) <br/>
+[Blenderella](https://cloud.blender.org/p/blenderella/)
+
+[Uterus Man](https://www.nytimes.com/2015/11/27/world/asia/china-art-lu-yang-venice-biennale.html)<br/>
+[Uterus Man — video](https://vimeo.com/82164043)<br/>
+
+
 - [Simone Niquille](https://technofle.sh/)
 — [Kate Cooper](https://www.stedelijk.nl/en/digdeeper/kate-cooper)
 
@@ -138,7 +150,6 @@ body and wearables:
 
 from choreography:
 
-- [Choy Ka Fai](http://www.ka5.info/prospectus.html)  <br/>
 - [Eric Minh Cuong Castaing 01](https://www.ballet-de-marseille.com/en/collaborations/performances/lrsquoacircge-d-or-45) <br/>
 - [Eric Minh Cuong Castaing 02](https://www.ballet-de-marseille.com/en/collaborations/performances/phoenix-47) <br/>
 - [Marie Chouinard](https://www.dansedanse.ca/en/compagnie-marie-chouinard-bodyremixlesvariationsgoldberg) <br/>
@@ -178,11 +189,14 @@ See also: [Anthropomorphising](https://en.wikipedia.org/wiki/Anthropomorphism)
 
 _Refs. on 'hacking' body/ies and languages:_ 
 
-[Winnie Soon](http://siusoon.net/vocable-code/)
-[Women Reclaiming AI](https://womenreclaimingai.com/)
-[Feminist AI](https://www.feminist.ai/)
+- [Choy Ka Fai](http://www.ka5.info/prospectus.html)  <br/>
+- [Winnie Soon](http://siusoon.net/vocable-code/)<br/>
+- [Women Reclaiming AI](https://womenreclaimingai.com/)<br/>
+- [Feminist AI](https://www.feminist.ai/)<br/>
+- [A bestiary of languages for programming movement](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf)<br/>
 
-[A bestiary of languages for programming movement](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf)
+
+> "Material agency includes bodies and social structures but also technologies as in the case of computational nano/bio-technologies presenting new human machine assemblages and hybrid forms. Barad’s claim is that agency is emergent through the ‘inter-action’ of elements and signals different and distinct agencies acting together. In the case of the archive we need to account for social practices and human bodies, but also various nonhuman agents as part of this machinic assemblage. Our example is the way a program can only be understood as part of a distributive agency that includes the programmer, computer, network, factory worker, and wider scientific, military, economic, medical, political system within which data is materialised." [Data-body: human and nonhuman agency in the documents of Kurenniemi](http://activearchives.org/wiki/Archiving_the_Data-body:_human_and_nonhuman_agency_in_the_documents_of_Kurenniemi#Data_Bodies)
 
 
 # Hacking Revisited
