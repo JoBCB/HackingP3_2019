@@ -77,23 +77,27 @@ _Right_ "Golem — in Jewish folklore, a golem is an animated anthropomorphic be
 
 ### From Organ to Organ-ization (Systems)
 
- <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Foetal_positions_in_uterus%2C_pregnant_female_Wellcome_L0000845.jpg" width="400">
+<img src="https://anatomiesofintelligence.github.io/img/poster/De-humani-corporis-fabrica.png" width="600">
+
+_Image:_ De humani corporis fabrica libri septem (Latin for "On the fabric of the human body in seven books") is a set of books on human anatomy written by Andreas Vesalius (1514–1564) and published in 1543. [Source](https://anatomiesofintelligence.github.io/posts/2018-10-31-De-humani-corporis-fabrica)
  
 > Anatomy: deals with the structural organization of living things. [Source](https://en.wikipedia.org/wiki/Anatomy)
 
  <img src="https://images.collection.cooperhewitt.org/84985_c578795c9e2d950c_b.jpg" width="400">
 
-_Image_ Template, Humanscale 7b: Seated at Work Selector, 1981 
+_Image:_ Template, Humanscale 7b: Seated at Work Selector, 1981 
 
 > "Originally published by iconic design firm Henry Dreyfuss Associates between 1974 and 1981, Humanscale is a masterfully crafted quick-reference guide for designing objects, interactions, and environments for humans." [Source](https://humanscalemanual.com/)
 
 > Ergonomics (or human factors) is the scientific discipline concerned with the understanding of interactions among humans and other elements of a system, and the profession that applies theory, principles, data and methods to design to optimize human well-being and overall system performance. (...) Physical ergonomics is concerned with human anatomy, and some of the anthropometric, physiological and bio mechanical characteristics as they relate to physical activity. [Source](https://en.wikipedia.org/wiki/Human_factors_and_ergonomics)
 
- <img src="https://research-development.hetnieuweinstituut.nl/sites/default/files/styles/width_1024/public/06_imgf0016.png?itok=WA8rPHEY" width="400">
+ <img src="https://research-development.hetnieuweinstituut.nl/sites/default/files/styles/width_1024/public/06_imgf0016.png?itok=WA8rPHEY" width="600">
 
-_Image_ 06 CAESAR database used as training set in the research towards a parametric three-dimensional body model for animation. “Method for providing a threedimensional body model,” Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V., 2015. [CAESAR® The most comprehensive source for body measurement data](http://store.sae.org/caesar/)
+_Image:_ CAESAR database used as training set in the research towards a parametric three-dimensional body model for animation. “Method for providing a threedimensional body model,” Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V., 2015. [CAESAR® The most comprehensive source for body measurement data](http://store.sae.org/caesar/)
 
-[Continue reading](https://research-development.hetnieuweinstituut.nl/en/fellows/fragility-life)
+> "Anthropometric efforts ranging from Da Vinci’s Vitruvian Man, to Corbusier’s Modulor, to Alphonse Bertillon’s’ Signaletic Instructions and invention of the mug shot, to Henry Dreyfuss’s Humanscale… What these projects share is an attempt to translate the human body into numbers. Be it for the sake of comparison, efficiency, policing…" [Continue reading](https://research-development.hetnieuweinstituut.nl/en/fellows/fragility-life)
+
+<img src="http://www.makehumancommunity.org/sites/default/files/styles/large/public/field/image/splash.png?itok=TNQ_qqxK" width="600">
 
 > MakeHuman is '3D computer graphics middleware designed for the prototyping of photo realistic humanoids' and has gained visibility and popularity over time. It is actively developed by a collective of programmers, algorithms, modelers and academics and used by amateur animators to prototype modeling, by natural history museums for creating exhibition displays, by engineers to test multi-camera systems and by game-developers for sketching bespoke characters. Developers and users evidently work together to define and codify the conditions of presence for virtual bodies in MakeHuman. Since each of the agents in this collective somehow operates under the Modern regime of representation, we find the software full of assumptions about the naturality of perspective-based and linear representations, the essential properties of the species and so forth. Through its curious naming the project evokes the demiurg, dreaming of 'making' 'humans'to resemble his own image, the deviceful naming is a reminder of how the semiotic-material secrets of life's flows are strongly linked to the way software represents or allows bodies to be represented. [Source](https://possiblebodies.constantvzw.org/inventory/?017)
 
@@ -121,11 +125,15 @@ _Further references_
 
 ### Natural, Artificial, Synthetic, Hybrid ...
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Prosthetic_toe.jpg" width="400">
+<img src="https://en.wikipedia.org/wiki/Prosthesis#/media/File:Eiserne_Hand_Glasnegativ_6_cropped.jpg" width="600">
 
-> "a prosthesis (plural: prostheses; from Ancient Greek prosthesis, "addition, application, attachment")" [Source](https://en.wikipedia.org/wiki/Prosthesis)
+_Image:_ Iron prosthetic hand believed to have been owned by Götz von Berlichingen (1480–1562)
+
+> "A prosthesis (plural: prostheses; from Ancient Greek prosthesis, "addition, application, attachment")" [Source](https://en.wikipedia.org/wiki/Prosthesis)
 
 <img src="https://images.collection.cooperhewitt.org/91935_46fcdfc962a73599_b.jpg" width="600">
+
+_Image:_ Prosthetic Hand, Modular Prosthetic Limb (MPL) v. 1.0, 2009 aluminum, steel, printed circuit boards, select polymers. JHU Applied Physics Lab. 
 
 > "Marshall McLuhan took such ideas further. In his terminology, the extensions of man are all media. In "Understanding Media" he suggested that, "any invention of technology is an extension of our physical bodies, and such extension also demands new ratios or new equilibriums among the other organs and extensions of the body" (1964, p.55).
 The upshot is that,"by continuously embracing technologies, we relate to them as servomechanisms. That is why we must, to use them at all, serve these objects, these extensions of ourselves, as gods or minor religions" (p.56)."" [Source: Articial Organs](http://www.nous.org.uk/art.org.html)
