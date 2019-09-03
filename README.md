@@ -1,5 +1,5 @@
 # Hacking 3 — WdKA, Rotterdam 2019
-Tutors: Ine Poppe and Joana Chicau (Practice); Mariana Aboim (Theory)
+Tutors: Ine Poppe, Joy Mariama Smith and Joana Chicau (Practice); Mariana Aboim (Theory)
 <!-- comment -->
 jointly with Ceramic station & interventions with Sound & Image +  Interaction Station
 
