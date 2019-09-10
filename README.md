@@ -194,6 +194,7 @@ _Image:_ [Source: Marie Chouinard](https://www.dansedanse.ca/en/compagnie-marie-
 
 > Related and derived concepts include intelligent agents (in particular exhibiting some aspects of artificial intelligence, such as reasoning), autonomous agents (capable of modifying the methods of achieving their objectives), distributed agents (being executed on physically distinct computers), multi-agent systems (distributed agents that work together to achieve an objective that could not be accomplished by a single agent acting alone), and mobile agents (agents that can relocate their execution onto different processors). [Source](https://en.wikipedia.org/wiki/Software_agent)
 
+Suggested Reading: [God and Golem - A Comment of Certain Points where Cybernetic impinges on Religion](http://www.rybn.org/ANTI/ADMXI/documentation/ADMXI/II._ALGORITHM_ENGINEERING/1963/Weiner_god_and_golem_inc.pdf)
 
 <img src="https://upload.wikimedia.org/wikipedia/en/6/6c/Tay_bot_logo.jpg" width="200">
 
