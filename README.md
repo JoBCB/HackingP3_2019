@@ -155,8 +155,8 @@ See also: [Do-it-yourself biology](https://en.wikipedia.org/wiki/Do-it-yourself_
 _Further references_
 
 body and data: <br/>
-⋅⋅⋅[Documentary](https://www.youtube.com/watch?v=clIiP1H3Opw)
-⋅⋅⋅[Cyborg Arts](https://www.cyborgarts.com/)
+⋅⋅⋅[Documentary](https://www.youtube.com/watch?v=clIiP1H3Opw) <br/>
+⋅⋅⋅[Cyborg Arts](https://www.cyborgarts.com/) <br/>
 ⋅⋅⋅[Amy Karle](https://www.amykarle.com/project/biofeedback/) <br/>
 ⋅⋅⋅[Institute of Human Obsolescence](http://speculative.capital)  <br/>
 ⋅⋅⋅[Martha Rosler](https://www.youtube.com/watch?v=b91_vZ8TauM) <br/>
