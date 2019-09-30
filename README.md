@@ -253,27 +253,27 @@ extra suggested reading: [God and Golem - A Comment of Certain Points where Cybe
 __01__  
 
 > download code: https://www.masswerk.at/elizabot/  <br/>
-> the default script that determines Eliza's behaviour can be changed in the "elizadata.js" file.  <br/>
-> or use the Processing library (import Eliza)  <br/>
-> the default script that determines Eliza's behaviour can be changed with the readScript() function.  <br/>
+> the default script that determines Eliza's behaviour can be changed in the "elizadata.js" file;  <br/>
+> or use the Processing library (import Eliza);  <br/>
+> the default script that determines Eliza's behaviour can be changed with the readScript() function;  <br/>
 > intructions to modify the script file are available here: http://www.chayden.net/eliza/instructions.txt  <br/>
 			
 __02__ 
 
-> read carefully the code, discuss the underlying "behaviour" mode of the bot.
+> read carefully the code, discuss the underlying "behaviour" mode of the bot;
 		
 __03__ 
 
-> create a new character for your bot; and think of a scenario in which this bot exists.  <br/>
+> create a new character for your bot; and think of a scenario in which this bot exists;  <br/>
 > write in three sentences the attributes that define the new bot;  <br/>
 > start by thinking about a 'greeting' — how will the bot introduce itself?  <br/>
-> then how will the conversation evolve? — you can test / perform the conversation among yourselves.  <br/>
+> then how will the conversation evolve? — you can test / perform the conversation among yourselves;  <br/>
 > does it have an end?  <br/>
 		
 __04__ 
 
-> make changes in the code, and interact with it.  <br/>
-> reflect about the 'behaviours' the bot generates.  <br/>
+> make changes in the code, and interact with it;  <br/>
+> reflect about the 'behaviours' the bot generates;  <br/>
 > present / perform your bot to the class — what would it be like if all the bots would start a conversation?  <br/>
 
 ---
@@ -286,6 +286,8 @@ __04__
 
 …Manipulations, transformations, and unconventional redesigns of technical appliances which contain both analog or analog-electronic as well as digital components. (...) The brutality of a hack lies less in the tool itself than in the modus operandi and its purpose.” Verena Kuni essay: Analogital Hacks — Source: _Dominik Landwehr (Hg.): Hacking; Edition Digital Culture 2; Migros-Kulturprozent, Christoph Merian Verlag; Oktober 2014, Deutsch/Englisch, ISBN_
 
+<br/>
+
 - [Podcasts on 'Hacking' Cultures](https://www.lullabot.com/podcasts/hacking-culture)
 — [Hacking Forensics](https://labs.rs/en/metadata/)
 
@@ -296,7 +298,8 @@ __04__
 - [Hacker's spaces events worldwide](https://wiki.hackerspaces.org/Events )
 
 <br/>
-- [More references and definitions in this link.](https://github.com/JoBCB/HackingP3_2019/blob/master/Hacking_Glossaries_Meanings.md)
+
+- More references and definitions: [in this link.](https://github.com/JoBCB/HackingP3_2019/blob/master/Hacking_Glossaries_Meanings.md)
 
 ---
 
