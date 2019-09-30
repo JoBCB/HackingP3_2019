@@ -231,7 +231,7 @@ _Further references:_
 ⋅⋅⋅[Feminist AI](https://www.feminist.ai/)<br/>
 ⋅⋅⋅[A bestiary of languages for programming movement](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf)<br/>
 
-bot related tools:
+bot related tools:<br/>
 ⋅⋅⋅[JavaScript Chat Bot using the Duck Duck Go Engine](https://github.com/ddsky/chatbot)  <br/>
 ⋅⋅⋅[Scratch Chat Bot](https://scratch.mit.edu/projects/26762091/editor)  <br/>
 ⋅⋅⋅[Semantic similarity chatbot (with movie dialog)](https://colab.research.google.com/drive/1XlmtcyMdPRQC6bw2HQYb3UPtVGKqUJ0a#scrollTo=8R0T0ei52FXS)<br/>
