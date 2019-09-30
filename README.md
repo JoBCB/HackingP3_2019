@@ -240,20 +240,33 @@ from robotics:<br/>
 <img src="https://www.kaaitheater.be/sites/default/files/styles/1200x800/public/1516/HelloHiThere_1___steirischer_herbst_w._silveri.jpeg" width="600"> <br/>
 [Hello Hi There — Annie Dorsen](http://www.anniedorsen.com/showproject.php?id=6) <br/>
 
-		* Exercise: 
+	Exercise (in groups): 
 		
-		01 * download code: https://www.masswerk.at/elizabot/
-		The default script that determines Eliza's behaviour can be changed in the "elizadata.js" file.
-		   * or use the Processing library (import Eliza)
-		The default script that determines Eliza's behaviour can be changed with the readScript() function.
-		
-		Intructions to modify the script file are available here: http://www.chayden.net/eliza/instructions.txt
+__01__  
+
+> download code: https://www.masswerk.at/elizabot/
+> the default script that determines Eliza's behaviour can be changed in the "elizadata.js" file.
+> or use the Processing library (import Eliza)
+> the default script that determines Eliza's behaviour can be changed with the readScript() function.		
+> intructions to modify the script file are available here: http://www.chayden.net/eliza/instructions.txt
 			
-		02 * read carefully the code, discuss the underlying "behaviour" of the bot.
+__02__ 
+
+> read carefully the code, discuss the underlying "behaviour" mode of the bot.
 		
-		03 * create a new character; write in three sentences the attributes that define the new bot.
+__03__ 
+
+> create a new character for your bot; and think of a scenario in which this bot exists.
+> write in three sentences the attributes that define the new bot;
+> start by thinking about a 'greeting' — how will the bot introduce itself?
+> then how will the conversation evolve? — you can test / perform the conversation among yourselves.
+> does it have an end?
 		
-		04 *  make changes in the code, and interact with it.
+__04__ 
+
+> make changes in the code, and interact with it.
+> reflect about the 'behaviours' the bot generates.
+> present / perform your bot to the class — what would it be like if all the bots would start a conversation?
 
 ---
 
