@@ -177,9 +177,13 @@ body augmentation and wearables:<br/>
 
 _Image:_ [Source: Marie Chouinard](https://www.dansedanse.ca/en/compagnie-marie-chouinard-bodyremixlesvariationsgoldberg) <br/>
 
-		* Exercise 01: [Reimagining bodies: on the floor & fiction](https://github.com/JoBCB/HackingP3_2019/blob/master/Embodying-Other-Anatomies_ex01.md)
+		* Exercise 01: 
+
+> [Reimagining bodies: on the floor & fiction](https://github.com/JoBCB/HackingP3_2019/blob/master/Embodying-Other-Anatomies_ex01.md)
 		
-		* Exercise 02: [Making of a ‘collective body’ and how to negotiate ambient sociality](https://github.com/JoBCB/HackingP3_2019/blob/master/Embodying-Other-Anatomies_ex02.md)
+		* Exercise 02: 
+		
+> [Making of a ‘collective body’ and how to negotiate ambient sociality](https://github.com/JoBCB/HackingP3_2019/blob/master/Embodying-Other-Anatomies_ex02.md)
 
 ---
 
@@ -191,8 +195,6 @@ _Image:_ [Source: Marie Chouinard](https://www.dansedanse.ca/en/compagnie-marie-
 > In computer science, a software agent is a computer program that acts for a user or other program in a relationship of agency, which derives from the Latin **agere (to do)**: an agreement to act on one's behalf. Such "action on behalf of" implies the authority to decide which, if any, action is appropriate. Agents are colloquially known as bots, from robot. They may be embodied, as when execution is paired with a robot body, or as software such as a chatbot executing on a phone (e.g. Siri) or other computing device. Software agents may be autonomous or work together with other agents or people. Software agents interacting with people (e.g. chatbots, human-robot interaction environments) may possess human-like qualities such as natural language understanding and speech, personality or embody humanoid form. 
 
 > Related and derived concepts include intelligent agents (in particular exhibiting some aspects of artificial intelligence, such as reasoning), autonomous agents (capable of modifying the methods of achieving their objectives), distributed agents (being executed on physically distinct computers), multi-agent systems (distributed agents that work together to achieve an objective that could not be accomplished by a single agent acting alone), and mobile agents (agents that can relocate their execution onto different processors). [Source](https://en.wikipedia.org/wiki/Software_agent)
-
-Suggested Reading: [God and Golem - A Comment of Certain Points where Cybernetic impinges on Religion](http://www.rybn.org/ANTI/ADMXI/documentation/ADMXI/II._ALGORITHM_ENGINEERING/1963/Weiner_god_and_golem_inc.pdf)
 
 
 __[Before Siri and Alexa, there was ELIZA:](https://www.youtube.com/watch?v=RMK9AphfLco)__
@@ -225,13 +227,19 @@ _Further references:_
 ⋅⋅⋅[Esoteric Codes](https://esoteric.codes/)  <br/>
 ⋅⋅⋅[Choy Ka Fai](http://www.ka5.info/prospectus.html)  <br/>
 ⋅⋅⋅[Winnie Soon](http://siusoon.net/vocable-code/)<br/>
-⋅⋅⋅[Semantic similarity chatbot (with movie dialog)](https://colab.research.google.com/drive/1XlmtcyMdPRQC6bw2HQYb3UPtVGKqUJ0a#scrollTo=8R0T0ei52FXS)<br/>
 ⋅⋅⋅[Women Reclaiming AI](https://womenreclaimingai.com/)<br/>
 ⋅⋅⋅[Feminist AI](https://www.feminist.ai/)<br/>
 ⋅⋅⋅[A bestiary of languages for programming movement](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf)<br/>
 
+bot related tools:
+⋅⋅⋅[JavaScript Chat Bot using the Duck Duck Go Engine](https://github.com/ddsky/chatbot)  <br/>
+⋅⋅⋅[Scratch Chat Bot](https://scratch.mit.edu/projects/26762091/editor)  <br/>
+⋅⋅⋅[Semantic similarity chatbot (with movie dialog)](https://colab.research.google.com/drive/1XlmtcyMdPRQC6bw2HQYb3UPtVGKqUJ0a#scrollTo=8R0T0ei52FXS)<br/>
+
 from robotics:<br/>
 ⋅⋅⋅[Alter 3](https://robotreporters.com/alter-3-robot-conducts-android-opera-in-japan-exploring-the-future-of-human-communication/)
+
+extra suggested reading: [God and Golem - A Comment of Certain Points where Cybernetic impinges on Religion](http://www.rybn.org/ANTI/ADMXI/documentation/ADMXI/II._ALGORITHM_ENGINEERING/1963/Weiner_god_and_golem_inc.pdf)
 
 
 ---
