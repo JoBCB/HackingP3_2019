@@ -252,11 +252,11 @@ extra suggested reading: [God and Golem - A Comment of Certain Points where Cybe
 		
 __01__  
 
-> download code: https://www.masswerk.at/elizabot/
-> the default script that determines Eliza's behaviour can be changed in the "elizadata.js" file.
-> or use the Processing library (import Eliza)
-> the default script that determines Eliza's behaviour can be changed with the readScript() function.		
-> intructions to modify the script file are available here: http://www.chayden.net/eliza/instructions.txt
+> download code: https://www.masswerk.at/elizabot/  <br/>
+> the default script that determines Eliza's behaviour can be changed in the "elizadata.js" file.  <br/>
+> or use the Processing library (import Eliza)  <br/>
+> the default script that determines Eliza's behaviour can be changed with the readScript() function.  <br/>
+> intructions to modify the script file are available here: http://www.chayden.net/eliza/instructions.txt  <br/>
 			
 __02__ 
 
@@ -264,17 +264,17 @@ __02__
 		
 __03__ 
 
-> create a new character for your bot; and think of a scenario in which this bot exists.
-> write in three sentences the attributes that define the new bot;
-> start by thinking about a 'greeting' — how will the bot introduce itself?
-> then how will the conversation evolve? — you can test / perform the conversation among yourselves.
-> does it have an end?
+> create a new character for your bot; and think of a scenario in which this bot exists.  <br/>
+> write in three sentences the attributes that define the new bot;  <br/>
+> start by thinking about a 'greeting' — how will the bot introduce itself?  <br/>
+> then how will the conversation evolve? — you can test / perform the conversation among yourselves.  <br/>
+> does it have an end?  <br/>
 		
 __04__ 
 
-> make changes in the code, and interact with it.
-> reflect about the 'behaviours' the bot generates.
-> present / perform your bot to the class — what would it be like if all the bots would start a conversation?
+> make changes in the code, and interact with it.  <br/>
+> reflect about the 'behaviours' the bot generates.  <br/>
+> present / perform your bot to the class — what would it be like if all the bots would start a conversation?  <br/>
 
 ---
 
@@ -295,7 +295,8 @@ __04__
 - [Hacker's spaces events in Holland](https://wiki.techinc.nl/index.php/Events )  <br/>
 - [Hacker's spaces events worldwide](https://wiki.hackerspaces.org/Events )
 
-[More references and definitions in this link.](https://github.com/JoBCB/HackingP3_2019/blob/master/Hacking_Glossaries_Meanings.md)
+<br/>
+- [More references and definitions in this link.](https://github.com/JoBCB/HackingP3_2019/blob/master/Hacking_Glossaries_Meanings.md)
 
 ---
 
@@ -306,6 +307,6 @@ For information on the assignement; assessment criteria and schedule visit the o
 
 **Other Useful Links**
 
-[Research Theory Resources](https://github.com/JoBCB/Rehearsal_Series/wiki/Open-Source-Resources)
+[Research Theory Resources](https://github.com/JoBCB/Rehearsal_Series/wiki/Resources-and-Theory-on-Open-Technology-and-Design)
 
-[Free software and Coding tools](https://github.com/JoBCB/Rehearsal_Series/wiki/Coding-Tools-and-Free-Software)
+[Free software and Coding tools](https://github.com/JoBCB/Rehearsal_Series/wiki/Web,-Design,-Live-Coding-Tools-and-Free-Software)
