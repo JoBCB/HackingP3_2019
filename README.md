@@ -177,10 +177,9 @@ body augmentation and wearables:<br/>
 
 _Image:_ [Source: Marie Chouinard](https://www.dansedanse.ca/en/compagnie-marie-chouinard-bodyremixlesvariationsgoldberg) <br/>
 
-
-		* Reimagining bodies (on the floor and fiction)*
+		* Exercise 01: [Reimagining bodies: on the floor & fiction](https://github.com/JoBCB/HackingP3_2019/blob/master/Embodying-Other-Anatomies_ex01.md)
 		
-		* Making of a ‘collective body’ and how to negotiate ambient sociality.*
+		* Exercise 02: [Making of a ‘collective body’ and how to negotiate ambient sociality](https://github.com/JoBCB/HackingP3_2019/blob/master/Embodying-Other-Anatomies_ex02.md)
 
 ---
 
@@ -195,29 +194,30 @@ _Image:_ [Source: Marie Chouinard](https://www.dansedanse.ca/en/compagnie-marie-
 
 Suggested Reading: [God and Golem - A Comment of Certain Points where Cybernetic impinges on Religion](http://www.rybn.org/ANTI/ADMXI/documentation/ADMXI/II._ALGORITHM_ENGINEERING/1963/Weiner_god_and_golem_inc.pdf)
 
+
+__[Before Siri and Alexa, there was ELIZA:](https://www.youtube.com/watch?v=RMK9AphfLco)__
+
+> A chatbot is a piece of software that conducts a conversation via auditory or textual methods. ELIZA was one of the first chatterbots and one of the first programs capable of attempting the Turing Test (by Alan Turing / 1950, a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human).
+
+> ELIZA is an early natural language processing computer program created from 1964 to 1966 at the MIT Artificial Intelligence Laboratory by Joseph Weizenbaum.
+The most famous script, DOCTOR, simulated a Rogerian psychotherapist (in particular, Carl Rogers, who was well-known for simply parroting back at patients what they'd just said) and used rules, dictated in the script, to respond with non-directional questions to user inputs. [Source](https://en.wikipedia.org/wiki/ELIZA)
+
 <img src="https://upload.wikimedia.org/wikipedia/en/6/6c/Tay_bot_logo.jpg" width="200">
 
 _Image:_ Tay was an artificial intelligence chatter bot that was originally released by Microsoft Corporation via Twitter (2016); [Source](https://en.wikipedia.org/wiki/Tay_(bot))
 
 > "Material agency includes bodies and social structures but also technologies as in the case of computational nano/bio-technologies presenting new human machine assemblages and hybrid forms. Barad’s claim is that agency is emergent through the ‘inter-action’ of elements and signals different and distinct agencies acting together. In the case of the archive we need to account for social practices and human bodies, but also various nonhuman agents as part of this machinic assemblage. Our example is the way a program can only be understood as part of a distributive agency that includes the programmer, computer, network, factory worker, and wider scientific, military, economic, medical, political system within which data is materialised." [Data-body: human and nonhuman agency in the documents of Kurenniemi](http://activearchives.org/wiki/Archiving_the_Data-body:_human_and_nonhuman_agency_in_the_documents_of_Kurenniemi#Data_Bodies)
 
-
 See also: [Anthropomorphising](https://en.wikipedia.org/wiki/Anthropomorphism) 
 
-
-### < Body > Languages 
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Items_from_the_primitive_medicine_section_Wellcome_L0029857.jpg" width="800">
 
 > Computation and its imaginary are rich with contradictions, and loaded with metaphysical and ontological speculation. Underneath those contradictions and speculations lies an obsession with code that executes, the phantasm that words become flesh. It remains a phantasm, because again and again, the execution fails to match the boundless speculative expectations invested into it. Cultural and political semantics result merely from its dull formalisms and their interference with daily life, from account balance statements to “end-user software.” Formalisms create semantics in a wholly different way than people expect from an allegedly “intelligent machine.” Computers therefore exist, as hacker wisdom says, to solve problems which we would not even be aware of having if not for the computers themselves. — Florian Cramer
 
 
-<img src="https://www.kaaitheater.be/sites/default/files/styles/1200x800/public/1516/HelloHiThere_1___steirischer_herbst_w._silveri.jpeg" width="600"> <br/>
-[Hello Hi There — Annie Dorsen](http://www.anniedorsen.com/showproject.php?id=6) <br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Items_from_the_primitive_medicine_section_Wellcome_L0029857.jpg" width="800">
 
 
 >The cultural history of computation shows that it is as rich and contradictory as that of any other symbolic form. It encompasses opposites, algorithms as a tool versus algorithms as a material of aesthetic play and speculation, computation as inner workings of nature (as in Pythagorean thought) or God (as in Kabbalah and magic) versus computation as culture and a medium of cultural reflection (starting with Oulipo and hacker cultures in the 1960s), computation as a means of abolishing semantics (Bense) versus computation as a means to structure and generate semantics (as in Lullism and Artificial Intelligence), computation as a means of generating totality (Quirinus Kuhlmann) versus computation as a means of taking things apart (Tzara, cut-ups), software as ontological freedom (GNU) versus software as ontological enslavement (Netochka Nezvanova), ecstatic computation (Kuhlmann, Kabbala, Burroughs) versus rationalist computation (from Leibniz to Turing) versus pataphysical computation as the parody of both rationalist and irrationalist computation (Oulipo and generative psychogeography), algorithm as expansion (Lullism, generative art) versus algorithm as constraint (Oulipo, net.art), code as chaotic imagination (Jodi, codeworks) versus code as structured description of chaos (Tzara, John Cage). — Florian Cramer [Quote Source](http://cramer.pleintekst.nl/00-recent/words_made_flesh/html/words_made_fleshch2.html#x5-40002)
-
 
 
 _Further references:_ 
@@ -225,12 +225,38 @@ _Further references:_
 ⋅⋅⋅[Esoteric Codes](https://esoteric.codes/)  <br/>
 ⋅⋅⋅[Choy Ka Fai](http://www.ka5.info/prospectus.html)  <br/>
 ⋅⋅⋅[Winnie Soon](http://siusoon.net/vocable-code/)<br/>
+⋅⋅⋅[Semantic similarity chatbot (with movie dialog)](https://colab.research.google.com/drive/1XlmtcyMdPRQC6bw2HQYb3UPtVGKqUJ0a#scrollTo=8R0T0ei52FXS)<br/>
 ⋅⋅⋅[Women Reclaiming AI](https://womenreclaimingai.com/)<br/>
 ⋅⋅⋅[Feminist AI](https://www.feminist.ai/)<br/>
 ⋅⋅⋅[A bestiary of languages for programming movement](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf)<br/>
 
 from robotics:<br/>
 ⋅⋅⋅[Alter 3](https://robotreporters.com/alter-3-robot-conducts-android-opera-in-japan-exploring-the-future-of-human-communication/)
+
+
+---
+### < Body > Languages 
+
+<img src="https://www.kaaitheater.be/sites/default/files/styles/1200x800/public/1516/HelloHiThere_1___steirischer_herbst_w._silveri.jpeg" width="600"> <br/>
+[Hello Hi There — Annie Dorsen](http://www.anniedorsen.com/showproject.php?id=6) <br/>
+
+		* Exercise: 
+		
+		01 * download code: https://www.masswerk.at/elizabot/
+		The default script that determines Eliza's behaviour can be changed in the "elizadata.js" file.
+		   * or use the Processing library (import Eliza)
+		The default script that determines Eliza's behaviour can be changed with the readScript() function.
+		
+		Intructions to modify the script file are available here: http://www.chayden.net/eliza/instructions.txt
+			
+		02 * read carefully the code, discuss the underlying "behaviour" of the bot.
+		
+		03 * create a new character; write in three sentences the attributes that define the new bot.
+		
+		04 *  make changes in the code, and interact with it.
+
+---
+
 
 # Hacking Revisited
 
