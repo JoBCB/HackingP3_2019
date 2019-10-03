@@ -151,7 +151,7 @@ _Image:_ The neurostimulator mounted in Pleij's back. [Source](https://www.vice.
 See also: [Do-it-yourself biology](https://en.wikipedia.org/wiki/Do-it-yourself_biology)
 
 
-_Further references_
+_further references_
 
 body and data: <br/>
 ⋅⋅⋅[Documentary](https://www.youtube.com/watch?v=clIiP1H3Opw) <br/>
@@ -159,6 +159,7 @@ body and data: <br/>
 ⋅⋅⋅[Amy Karle](https://www.amykarle.com/project/biofeedback/) <br/>
 ⋅⋅⋅[Institute of Human Obsolescence](http://speculative.capital)  <br/>
 ⋅⋅⋅[Martha Rosler](https://www.youtube.com/watch?v=b91_vZ8TauM) <br/>
+⋅⋅⋅[Choy Ka Fai](http://www.ka5.info/prospectus.html)  <br/>
 
 body and surveillance:<br/>
 ⋅⋅⋅[Zach Blas](http://www.zachblas.info/works/facial-weaponization-suite/) <br/>
@@ -222,10 +223,9 @@ See also: [Anthropomorphising](https://en.wikipedia.org/wiki/Anthropomorphism)
 >The cultural history of computation shows that it is as rich and contradictory as that of any other symbolic form. It encompasses opposites, algorithms as a tool versus algorithms as a material of aesthetic play and speculation, computation as inner workings of nature (as in Pythagorean thought) or God (as in Kabbalah and magic) versus computation as culture and a medium of cultural reflection (starting with Oulipo and hacker cultures in the 1960s), computation as a means of abolishing semantics (Bense) versus computation as a means to structure and generate semantics (as in Lullism and Artificial Intelligence), computation as a means of generating totality (Quirinus Kuhlmann) versus computation as a means of taking things apart (Tzara, cut-ups), software as ontological freedom (GNU) versus software as ontological enslavement (Netochka Nezvanova), ecstatic computation (Kuhlmann, Kabbala, Burroughs) versus rationalist computation (from Leibniz to Turing) versus pataphysical computation as the parody of both rationalist and irrationalist computation (Oulipo and generative psychogeography), algorithm as expansion (Lullism, generative art) versus algorithm as constraint (Oulipo, net.art), code as chaotic imagination (Jodi, codeworks) versus code as structured description of chaos (Tzara, John Cage). — Florian Cramer [Quote Source](http://cramer.pleintekst.nl/00-recent/words_made_flesh/html/words_made_fleshch2.html#x5-40002)
 
 
-_Further references:_ 
+_further references on code and language:_ 
 
 ⋅⋅⋅[Esoteric Codes](https://esoteric.codes/)  <br/>
-⋅⋅⋅[Choy Ka Fai](http://www.ka5.info/prospectus.html)  <br/>
 ⋅⋅⋅[Winnie Soon](http://siusoon.net/vocable-code/)<br/>
 ⋅⋅⋅[Women Reclaiming AI](https://womenreclaimingai.com/)<br/>
 ⋅⋅⋅[Feminist AI](https://www.feminist.ai/)<br/>
