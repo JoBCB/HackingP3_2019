@@ -254,13 +254,19 @@ __01__
 
 > download code: https://www.masswerk.at/elizabot/  <br/>
 > the default script that determines Eliza's behaviour can be changed in the "elizadata.js" file;  <br/>
+
 > or use the Processing library (import Eliza);  <br/>
 > the default script that determines Eliza's behaviour can be changed with the readScript() function;  <br/>
-> intructions to modify the script file are available here: http://www.chayden.net/eliza/instructions.txt  <br/>
-			
+> intructions to modify the script file are available here: http://www.chayden.net/eliza/instructions.txt  <br/><br/>
+
+
+_Code editors and collaborative collaborative programming environments_ <br/>
+> [Atom](https://atom.io/) or [Sublime Text](https://www.sublimetext.com/); <br/>
+> [Collaborative writing appi part of ATOM](https://teletype.atom.io/) <br/><br/>
+
 __02__ 
 
-> read carefully the code, discuss the underlying "behaviour" mode of the bot;
+> read carefully the code, discuss the underlying "behaviour" mode of the bot; <br/>
 		
 __03__ 
 
