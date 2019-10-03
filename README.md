@@ -15,10 +15,10 @@ This document gathers resources on the classes facilitated by [Joana Chicau](www
 	* [Inspecting Bodies](##Inspecting-Bodies)
 
 		* From Organ to Organ-ization.
-		
-		* The Natural, the Artificial, the Hybrid, and beyond.
-		
+				
 	* [Embodying Other Anatomies](##Embodying-Other-Anatomies)
+	
+		* The Natural, the Artificial, the Hybrid, and beyond.
 	
 		* Reimagining bodies (on the floor & fiction).
 		
@@ -124,6 +124,11 @@ _Further references_
 ⋅⋅⋅[Simone Niquille](https://technofle.sh/)<br/>
 ⋅⋅⋅[Kate Cooper](https://www.stedelijk.nl/en/digdeeper/kate-cooper)
 
+---
+
+
+## Embodying-Other-Anatomies
+
 
 ### The Natural, the Artificial, the Hybrid, and beyond.
 
@@ -171,8 +176,6 @@ body augmentation and wearables:<br/>
 ⋅⋅⋅[Various Examples](https://www.dezeen.com/tag/wearable-technology/)
 
 ---
-
-## Embodying-Other-Anatomies
 
 <img src="https://www.dansedanse.ca/sites/default/files/cmc-body_3-_0.jpg" width="800">
 
