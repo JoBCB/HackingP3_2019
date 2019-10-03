@@ -229,6 +229,7 @@ _further references on code and language:_
 ⋅⋅⋅[Winnie Soon](http://siusoon.net/vocable-code/)<br/>
 ⋅⋅⋅[Women Reclaiming AI](https://womenreclaimingai.com/)<br/>
 ⋅⋅⋅[Feminist AI](https://www.feminist.ai/)<br/>
+⋅⋅⋅[Meet Q: The First Genderless Voice ](https://www.genderlessvoice.com/)<br/>
 ⋅⋅⋅[A bestiary of languages for programming movement](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf)<br/>
 
 bot related tools:<br/>
