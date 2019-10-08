@@ -226,6 +226,12 @@ See also: [Anthropomorphising](https://en.wikipedia.org/wiki/Anthropomorphism)
 >The cultural history of computation shows that it is as rich and contradictory as that of any other symbolic form. It encompasses opposites, algorithms as a tool versus algorithms as a material of aesthetic play and speculation, computation as inner workings of nature (as in Pythagorean thought) or God (as in Kabbalah and magic) versus computation as culture and a medium of cultural reflection (starting with Oulipo and hacker cultures in the 1960s), computation as a means of abolishing semantics (Bense) versus computation as a means to structure and generate semantics (as in Lullism and Artificial Intelligence), computation as a means of generating totality (Quirinus Kuhlmann) versus computation as a means of taking things apart (Tzara, cut-ups), software as ontological freedom (GNU) versus software as ontological enslavement (Netochka Nezvanova), ecstatic computation (Kuhlmann, Kabbala, Burroughs) versus rationalist computation (from Leibniz to Turing) versus pataphysical computation as the parody of both rationalist and irrationalist computation (Oulipo and generative psychogeography), algorithm as expansion (Lullism, generative art) versus algorithm as constraint (Oulipo, net.art), code as chaotic imagination (Jodi, codeworks) versus code as structured description of chaos (Tzara, John Cage). — Florian Cramer [Quote Source](http://cramer.pleintekst.nl/00-recent/words_made_flesh/html/words_made_fleshch2.html#x5-40002)
 
 
+bot related tools:<br/>
+⋅⋅⋅[JavaScript Chat Bot using the Duck Duck Go Engine](https://github.com/ddsky/chatbot)  <br/>
+⋅⋅⋅[Scratch Chat Bot](https://scratch.mit.edu/projects/26762091/editor)  <br/>
+⋅⋅⋅[Semantic similarity chatbot (with movie dialog)](https://colab.research.google.com/drive/1XlmtcyMdPRQC6bw2HQYb3UPtVGKqUJ0a#scrollTo=8R0T0ei52FXS)<br/>
+
+
 _further references on code and language:_ 
 
 ⋅⋅⋅[Women Reclaiming AI](https://womenreclaimingai.com/)<br/>
@@ -233,14 +239,13 @@ _further references on code and language:_
 ⋅⋅⋅[Meet Q: The First Genderless Voice ](https://www.genderlessvoice.com/)<br/>
 ⋅⋅⋅[Winnie Soon](http://siusoon.net/vocable-code/)<br/>
 ⋅⋅⋅[Esoteric Codes](https://esoteric.codes/)  <br/>
-⋅⋅⋅[Bot-like publication layout](http://a-friend-is-writing.new-document.net/)  <br/>
+⋅⋅⋅[Bot-poet game](http://botpoet.com/)  <br/>
+⋅⋅⋅[Bot - break the rap code](https://deep-flow.nl/)  <br/>
+⋅⋅⋅[Bot-like publication layout](http://a-friend-is-writing.new-document.net/)  <br/><br/>
 
 ⋅⋅⋅[A bestiary of languages for programming movement](http://www.ppig.org/sites/ppig.org/files/2017-PPIG-28th-church.pdf)<br/>
 
-bot related tools:<br/>
-⋅⋅⋅[JavaScript Chat Bot using the Duck Duck Go Engine](https://github.com/ddsky/chatbot)  <br/>
-⋅⋅⋅[Scratch Chat Bot](https://scratch.mit.edu/projects/26762091/editor)  <br/>
-⋅⋅⋅[Semantic similarity chatbot (with movie dialog)](https://colab.research.google.com/drive/1XlmtcyMdPRQC6bw2HQYb3UPtVGKqUJ0a#scrollTo=8R0T0ei52FXS)<br/>
+<br/>
 
 from robotics:<br/>
 ⋅⋅⋅[Alter 3](https://robotreporters.com/alter-3-robot-conducts-android-opera-in-japan-exploring-the-future-of-human-communication/)
