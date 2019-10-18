@@ -1,4 +1,4 @@
-#<Hello Worlds> 
+# <Hello Worlds> 
 
 Introduction to the command line interface. [See command line  — cheat sheet](https://gist.github.com/poopsplat/7195274)
 
@@ -10,7 +10,7 @@ Shell: a user interface for access to an operating system’s services. can be g
 - [Shell Hacks](https://www.shellhacks.com/)
 - [Linux Terminal in Rainbow Effect : Lolcat](https://www.ethicalhackx.com/linux-terminal-rainbow-effect-lolcat/)
 
-##Aschii Greetings
+## Aschii Greetings
 
 ASCII — abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices. Most modern character-encoding schemes are based on ASCII, although they support many additional characters. [source](https://en.wikipedia.org/wiki/ASCII)
 
@@ -24,7 +24,7 @@ __Install:__
 	> _02_ install figlet: 
 	brew install figlet
 
-##Playing 'Doctor' in the terminal:__
+## Playing 'Doctor' in the terminal:__
 
 	> _01_  open Terminal, which is located inside of the "Utilities" folder inside of your "Applications" folder.
 	> _02_  type: emacs
