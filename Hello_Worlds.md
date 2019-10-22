@@ -4,7 +4,7 @@ A "Hello, World!" program generally is a computer program that outputs or displa
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="450"> <img src="https://media.giphy.com/media/3tMC5xRUPgxk59a3QV/giphy.gif" width="300"> <img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="400"> <img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="420"> <img src="https://media.giphy.com/media/3tMC5xRUPgxk59a3QV/giphy.gif" width="300"> <img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="400"> <img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="400">
 
 <!-- comment 
 http://gph.is/2fd4Y80 
@@ -74,12 +74,9 @@ __Install:__
 - [Figlet](http://www.figlet.org/);
 
 
-	> _01_ copy paste the line below in your terminal to install Homebrew: 
-	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-	> _02_ copy paste the line below to install figlet: 
-	brew install figlet
-	> _03_ play with figlet: 
-	figlet Hello World
+	> _01_ copy paste the line below in your terminal to install Homebrew: /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+	> _02_ copy paste the line below to install figlet: brew install figlet
+	> _03_ play with figlet: figlet Hello World
 	
 
 ## Playing 'Doctor' in the terminal:__
