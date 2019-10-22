@@ -4,7 +4,7 @@ A "Hello, World!" program generally is a computer program that outputs or displa
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="420"> <img src="https://media.giphy.com/media/3tMC5xRUPgxk59a3QV/giphy.gif" width="300"> <img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="400"> <img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="420"> <img src="https://media.giphy.com/media/3tMC5xRUPgxk59a3QV/giphy.gif" width="330"> <img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="410"> <img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="400">
 
 <!-- comment 
 http://gph.is/2fd4Y80 
@@ -42,9 +42,8 @@ In computing, a shell is a user interface for access to an operating system's se
 
 __Terminal__ = text input/output environment or application.
 
-- [Terminal (macOS)](https://en.wikipedia.org/wiki/Terminal_(macOS));
+[Terminal (macOS)](https://en.wikipedia.org/wiki/Terminal_(macOS)); or [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal); ...
 
-- [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal);
 
 	> _01_  open the terminal
 	> _02_ to see the files list type: ls
@@ -69,9 +68,7 @@ _References:_
 
 __Install:__
 
-- [Homebrew](https://brew.sh/);
-
-- [Figlet](http://www.figlet.org/);
+[Homebrew](https://brew.sh/); and [Figlet](http://www.figlet.org/);
 
 
 	> _01_ copy paste the line below in your terminal to install Homebrew: /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
