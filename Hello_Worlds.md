@@ -4,7 +4,7 @@ A "Hello, World!" program generally is a computer program that outputs or displa
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="480"> <img src="https://media.giphy.com/media/3tMC5xRUPgxk59a3QV/giphy.gif" width="360"> <img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="410"> <img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="425">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="480"> <img src="https://media.giphy.com/media/3tMC5xRUPgxk59a3QV/giphy.gif" width="360"> <img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="412"> <img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="428">
 
 <!-- comment 
 http://gph.is/2fd4Y80 
@@ -60,6 +60,14 @@ _More references:_
 
 ## Aschii Greetings
 
+
+ _          _ _                          _     _ _ _ _
+| |__   ___| | | ___ __      _____  _ __| | __| | | | |
+| '_ \ / _ | | |/ _ \\ \ /\ / / _ \| '__| |/ _` | | | |
+| | | |  __| | | (_)  \ V  V | (_) | |  | | (_| |_|_|_|
+|_| |_|\___|_|_|\___/  \_/\_/ \___/|_|  |_|\__,_(_(_(_)
+
+
 ASCII — abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices. Most modern character-encoding schemes are based on ASCII, although they support many additional characters. [source](https://en.wikipedia.org/wiki/ASCII)
 
 _References:_
@@ -92,4 +100,5 @@ _References:_
 
 - [Mac Terminal Games (Doctor)](https://www.youtube.com/watch?v=smrQWc7JYiI)
 - [Use your mac as a psychotherapist](http://osxdaily.com/2010/01/23/use-your-mac-as-a-psychotherapist/)
+- [StarWars animation](http://www.asciimation.co.nz/) (tip: type on the terminal: telnet towel.blinkenlights.nl)
 
