@@ -61,22 +61,13 @@ _More references:_
 ## Aschii Greetings
 
 
+ _____________________________
+|                             |
+|     H U G   C O U P O N     |
+|                             |
+| Good for one super bear hug |
+|_____________________________|
 
- +:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+
- || (1)        OFFICIAL BITNET NOTE           ONE ||
- ||               * * *     * * *                 ||
- ||             *       * *       *               ||
- ||            *         *         *              ||
- ||            *                   *              ||
- ||            *                   *              ||
- ||      #1     *                 *               ||
- ||              *               *                ||
- ||                *           *                  ||
- ||                  *       *                    ||
- ||                    *   *                      ||
- ||                      *                        ||
- || ONE      ONE HUG PAYABLE UPON DEMAND      (1) ||
- +:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+
 
 
 ASCII — abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices. Most modern character-encoding schemes are based on ASCII, although they support many additional characters. [source](https://en.wikipedia.org/wiki/ASCII)
