@@ -4,17 +4,19 @@ A "Hello, World!" program generally is a computer program that outputs or displa
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Hello%2C_world%21_on_Debian_GNU-Hurd_%28xfce4-terminal%29.png" width="400"> <img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="200"> <img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="400"> 
 
-<!-- comment <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="300">
+<img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="400"> <img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="400">
+
+<!-- comment 
 http://gph.is/2fd4Y80 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Hello_World_c.jpg" width="490">
 donnathomas-rodgers-hola-aloha-bonjour: https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif
 https://media.giphy.com/media/3tMC5xRUPgxk59a3QV/giphy.gif
 -->
 
-	> _0.1_ open the terminal 
-	> _0.2_ echo Hello World
+	> _01_ open the terminal 
+	> _02_ echo Hello World
 	
 
 - ['Hello World' Collection](http://helloworldcollection.de/)
@@ -47,11 +49,10 @@ __Terminal__ = text input/output environment or application.
 
 - [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal);
 
-
-	> _0.1_ open the terminal 
-	> _0.2_ to see the files list type: ls
-	> _0.3_ to enter a folder type: cd "name of folder"
-	> _0.4_ echo ‘Hello World’ >> newfile.txt;
+	> _01_  open the terminal
+	> _02_ to see the files list type: ls
+	> _03_ to enter a folder type: cd "name of folder"
+	> _04_ echo ‘Hello World’ >> newfile.txt;
 
 
 - Find a list of commands: [Cheat Sheet](https://gist.github.com/poopsplat/7195274)
