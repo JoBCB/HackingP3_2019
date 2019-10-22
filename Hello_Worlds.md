@@ -4,7 +4,7 @@ A "Hello, World!" program generally is a computer program that outputs or displa
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="420"> <img src="https://media.giphy.com/media/3tMC5xRUPgxk59a3QV/giphy.gif" width="330"> <img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="410"> <img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="430"> <img src="https://media.giphy.com/media/3tMC5xRUPgxk59a3QV/giphy.gif" width="330"> <img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="410"> <img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="420">
 
 <!-- comment 
 http://gph.is/2fd4Y80 
@@ -40,9 +40,7 @@ A command-line interface (CLI) is a means of interacting with a computer program
 
 In computing, a shell is a user interface for access to an operating system's services. In general, operating system shells use either a command-line interface (CLI) or graphical user interface (GUI), depending on a computer's role and particular operation. It is named a shell because it is the outermost layer around the operating system kernel. [Source](https://en.wikipedia.org/wiki/Shell_(computing))
 
-__Terminal__ = text input/output environment or application.
-
-[Terminal (macOS)](https://en.wikipedia.org/wiki/Terminal_(macOS)); or [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal); ...
+__Terminal__ = text input/output environment or application. See more information for [Terminal (macOS)](https://en.wikipedia.org/wiki/Terminal_(macOS)); or [Windows Terminal](https://en.wikipedia.org/wiki/Windows_Terminal); ...
 
 
 	> _01_  open the terminal
@@ -51,7 +49,9 @@ __Terminal__ = text input/output environment or application.
 	> _04_ echo ‘Hello World’ >> newfile.txt;
 
 
-- Find a list of commands: [Cheat Sheet](https://gist.github.com/poopsplat/7195274)
+Find a list of commands: [Cheat Sheet](https://gist.github.com/poopsplat/7195274)
+
+_More references:_
 
 - [Shell Hacks](https://www.shellhacks.com/)
 
