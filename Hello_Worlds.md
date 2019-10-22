@@ -6,9 +6,9 @@ A "Hello, World!" program generally is a computer program that outputs or displa
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Hello%2C_world%21_on_Debian_GNU-Hurd_%28xfce4-terminal%29.png" width="300" style="display:inline-block; >
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Hello%2C_world%21_on_Debian_GNU-Hurd_%28xfce4-terminal%29.png" width="300" display="inline-block;" >
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Hello_World_c.jpg" width="300" style="display:inline-block; >
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Hello_World_c.jpg" width="300" display="inline-block;">
 
 <img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="300">
 
