@@ -61,11 +61,22 @@ _More references:_
 ## Aschii Greetings
 
 
- _          _ _                          _     _ _ _ _
-| |__   ___| | | ___ __      _____  _ __| | __| | | | |
-| '_ \ / _ | | |/ _ \\ \ /\ / / _ \| '__| |/ _` | | | |
-| | | |  __| | | (_)  \ V  V | (_) | |  | | (_| |_|_|_|
-|_| |_|\___|_|_|\___/  \_/\_/ \___/|_|  |_|\__,_(_(_(_)
+
+ +:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+
+ || (1)        OFFICIAL BITNET NOTE           ONE ||
+ ||               * * *     * * *                 ||
+ ||             *       * *       *               ||
+ ||            *         *         *              ||
+ ||            *                   *              ||
+ ||            *                   *              ||
+ ||      #1     *                 *               ||
+ ||              *               *                ||
+ ||                *           *                  ||
+ ||                  *       *                    ||
+ ||                    *   *                      ||
+ ||                      *                        ||
+ || ONE      ONE HUG PAYABLE UPON DEMAND      (1) ||
+ +:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+:+
 
 
 ASCII — abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices. Most modern character-encoding schemes are based on ASCII, although they support many additional characters. [source](https://en.wikipedia.org/wiki/ASCII)
