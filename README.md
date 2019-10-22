@@ -175,6 +175,10 @@ body augmentation and wearables:<br/>
 ⋅⋅⋅[Rebecca Horn](https://www.youtube.com/watch?v=6uEkq3IBIf0)<br/>
 ⋅⋅⋅[Various Examples](https://www.dezeen.com/tag/wearable-technology/)
 
+robotics:<br/>
+⋅⋅⋅[ Robots that come ever closer to the form of the human body
+](http://www.therobotstudio.com/)
+
 ---
 
 <img src="https://www.dansedanse.ca/sites/default/files/cmc-body_3-_0.jpg" width="800">
@@ -249,6 +253,7 @@ _further references on code and language:_
 
 from robotics:<br/>
 ⋅⋅⋅[Alter 3](https://robotreporters.com/alter-3-robot-conducts-android-opera-in-japan-exploring-the-future-of-human-communication/)
+
 
 extra suggested reading: [God and Golem - A Comment of Certain Points where Cybernetic impinges on Religion](http://www.rybn.org/ANTI/ADMXI/documentation/ADMXI/II._ALGORITHM_ENGINEERING/1963/Weiner_god_and_golem_inc.pdf)
 
