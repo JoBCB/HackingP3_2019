@@ -4,7 +4,7 @@ A "Hello, World!" program generally is a computer program that outputs or displa
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="430"> <img src="https://media.giphy.com/media/3tMC5xRUPgxk59a3QV/giphy.gif" width="330"> <img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="410"> <img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="420">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="440"> <img src="https://media.giphy.com/media/3tMC5xRUPgxk59a3QV/giphy.gif" width="330"> <img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="410"> <img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="420">
 
 <!-- comment 
 http://gph.is/2fd4Y80 
