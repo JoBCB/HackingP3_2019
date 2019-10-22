@@ -61,12 +61,13 @@ _More references:_
 ## Aschii Greetings
 
 
- _____________________________
-|                             |
-|     H U G   C O U P O N     |
-|                             |
-| Good for one super bear hug |
-|_____________________________|
+
+        __   __          __   __          __   __          __   __ 
+      ,'  `.'  `,      ,'  `.'  `,      ,'  `.'  `,      ,'  `.'  `, 
+      (   ONE   )      (   ONE   )      (   ONE   )      (   ONE   )    
+      `. EMAIL .'      `. EMAIL .'      `. EMAIL .'      `. EMAIL .'   
+        `.HUG.'          `.HUG.'          `.HUG.'          `.HUG.'    
+          `.'              `.'              `.'              `.'     
 
 
 
