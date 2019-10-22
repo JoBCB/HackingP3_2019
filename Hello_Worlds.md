@@ -2,23 +2,22 @@
 
 A "Hello, World!" program generally is a computer program that outputs or displays the message "Hello, World!". Such a program is very simple in most programming languages, and is often used to illustrate the basic syntax of a programming language. [Source](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program)
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="300">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Hello%2C_world%21_on_Debian_GNU-Hurd_%28xfce4-terminal%29.png" width="600">
+<br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Hello_World_c.jpg" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Hello%2C_world%21_on_Debian_GNU-Hurd_%28xfce4-terminal%29.png" width="300" style="display:inline-block; >
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Mac_OS_X_hello_world_dialog.png" width="600">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Hello_World_c.jpg" width="300" style="display:inline-block; >
 
-<img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="600">
+<img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="300">
 
-<img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="600">
+<img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="300">
 
-/* 
-http://gph.is/2fd4Y80 
+<!-- comment http://gph.is/2fd4Y80 
 donnathomas-rodgers-hola-aloha-bonjour: https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif
 https://media.giphy.com/media/3tMC5xRUPgxk59a3QV/giphy.gif
-*/
+-->
 
 > echo Hello World
 
