@@ -4,12 +4,11 @@ A "Hello, World!" program generally is a computer program that outputs or displa
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Hello%2C_world%21_on_Debian_GNU-Hurd_%28xfce4-terminal%29.png" width="500"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Hello_World_c.jpg" width="490">
-
-<img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="400"> <img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Hello%2C_world%21_on_Debian_GNU-Hurd_%28xfce4-terminal%29.png" width="500"> <img src="https://i2.wp.com/scifiinterfaces.com/wp-content/uploads/2019/04/forbiddenplanet-085.jpg?w=852&ssl=1" width="400"> <img src="https://i1.wp.com/scifiinterfaces.com/wp-content/uploads/2019/09/baymax-draft.gif?w=545&ssl=1" width="400">
 
 <!-- comment <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Att-pc7300-terminal.JPG" width="300">
 http://gph.is/2fd4Y80 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Hello_World_c.jpg" width="490">
 donnathomas-rodgers-hola-aloha-bonjour: https://media.giphy.com/media/1n67EigjECnOUc6rhS/giphy.gif
 https://media.giphy.com/media/3tMC5xRUPgxk59a3QV/giphy.gif
 -->
@@ -87,7 +86,7 @@ __Install:__
 
 ## Playing 'Doctor' in the terminal:__
 
-<img src="https://i.gifer.com/BInU.gif" width="300">
+<img src="http://cdn.osxdaily.com/wp-content/uploads/2012/10/eliza-psychotherapist-terminal.gif" width="600">
 
 	> _01_  open Terminal, which is located inside of the "Utilities" folder inside of your "Applications" folder.
 	> _02_  type: emacs
