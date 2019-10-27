@@ -103,23 +103,23 @@ _Image:_ CAESAR database used as training set in the research towards a parametr
 
 > MakeHuman is '3D computer graphics middleware designed for the prototyping of photo realistic humanoids' and has gained visibility and popularity over time. It is actively developed by a collective of programmers, algorithms, modelers and academics and used by amateur animators to prototype modeling, by natural history museums for creating exhibition displays, by engineers to test multi-camera systems and by game-developers for sketching bespoke characters. Developers and users evidently work together to define and codify the conditions of presence for virtual bodies in MakeHuman. Since each of the agents in this collective somehow operates under the Modern regime of representation, we find the software full of assumptions about the naturality of perspective-based and linear representations, the essential properties of the species and so forth. Through its curious naming the project evokes the demiurg, dreaming of 'making' 'humans'to resemble his own image, the deviceful naming is a reminder of how the semiotic-material secrets of life's flows are strongly linked to the way software represents or allows bodies to be represented. [Source](https://possiblebodies.constantvzw.org/inventory/?017)
 
-[The MakeHuman — 3D Humanoid Representations](https://interfacemanifesto.hangar.org/index.php/The_MakeHuman_bugreport_v0.2)<br/>
-[The MakeHuman — video](https://possiblebodies.constantvzw.org/inventory/assets/reMakeHuman/reMakehuman.mp4)<br/>
-[Makehuman Community](http://www.makehumancommunity.org/)<br/>
+⋅⋅⋅[The MakeHuman — 3D Humanoid Representations](https://interfacemanifesto.hangar.org/index.php/The_MakeHuman_bugreport_v0.2)<br/>
+⋅⋅⋅[The MakeHuman — video](https://possiblebodies.constantvzw.org/inventory/assets/reMakeHuman/reMakehuman.mp4)<br/>
+⋅⋅⋅[Makehuman Community](http://www.makehumancommunity.org/)<br/>
 
 
 
 _Further references_
 
-[Blenderella](https://cloud.blender.org/p/blenderella/)
+⋅⋅⋅[Blenderella](https://cloud.blender.org/p/blenderella/)
 
 
-[Uterus Man](https://www.nytimes.com/2015/11/27/world/asia/china-art-lu-yang-venice-biennale.html)<br/>
-[Uterus Man — video](https://vimeo.com/82164043)<br/>
+⋅⋅⋅[Uterus Man](https://www.nytimes.com/2015/11/27/world/asia/china-art-lu-yang-venice-biennale.html)<br/>
+⋅⋅⋅[Uterus Man — video](https://vimeo.com/82164043)<br/>
 
 
-[Uncanny Valley — "The battle for photoreal CGI"](https://vimeo.com/237568588)<br/>
-["..beautiful 3D visualizations deliver ultra-close-up views inside the human body."](https://ars.electronica.art/center/en/exhibitions/deepspace/theuniversewithin/)
+⋅⋅⋅[Uncanny Valley — "The battle for photoreal CGI"](https://vimeo.com/237568588)<br/>
+⋅⋅⋅["..beautiful 3D visualizations deliver ultra-close-up views inside the human body."](https://ars.electronica.art/center/en/exhibitions/deepspace/theuniversewithin/)
 
 ⋅⋅⋅[Simone Niquille](https://technofle.sh/)<br/>
 ⋅⋅⋅[Kate Cooper](https://www.stedelijk.nl/en/digdeeper/kate-cooper)
@@ -173,6 +173,7 @@ body and surveillance:<br/>
 body augmentation and wearables:<br/>
 ⋅⋅⋅[Eric Minh Cuong Castaing 01](https://www.ballet-de-marseille.com/en/collaborations/performances/lrsquoacircge-d-or-45) <br/>
 ⋅⋅⋅[Rebecca Horn](https://www.youtube.com/watch?v=6uEkq3IBIf0)<br/>
+⋅⋅⋅[Rehab Training Performance by Geumhyung Jeong](https://vimeo.com/288041120) <br/>
 ⋅⋅⋅[Various Examples](https://www.dezeen.com/tag/wearable-technology/)
 
 robotics:<br/>
