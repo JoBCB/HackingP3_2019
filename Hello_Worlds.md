@@ -49,7 +49,8 @@ __Terminal__ = text input/output environment or application. See more informatio
 	> _04_ echo ‘Hello World’ >> newfile.txt;
 
 
-Find a list of commands: [Cheat Sheet](https://gist.github.com/poopsplat/7195274)
+Find a list of commands: [Cheat Sheet for Linux and Mac](https://gist.github.com/poopsplat/7195274) and [Cheat Sheet for Windows](http://www.cs.columbia.edu/~sedwards/classes/2015/1102-fall/Command%20Prompt%20Cheatsheet.pdf)
+
 
 _More references:_
 
@@ -104,4 +105,9 @@ _References:_
 - [Mac Terminal Games (Doctor)](https://www.youtube.com/watch?v=smrQWc7JYiI)
 - [Use your mac as a psychotherapist](http://osxdaily.com/2010/01/23/use-your-mac-as-a-psychotherapist/)
 - [StarWars animation](http://www.asciimation.co.nz/) (tip: type on the terminal: telnet towel.blinkenlights.nl)
+
+
+## Other interesting tools:__
+
+- [ImageMagick includes a number of command-line utilities for manipulating images.](https://imagemagick.org)
 
