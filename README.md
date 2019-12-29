@@ -311,6 +311,8 @@ __04__
 
 <br/>
 
+- [Hack_Curio is a video portal into hackerdom that helps explains why hacking is one of the most important phenomena of global culture and politics in the late 20th and early 21st century.](https://hackcur.io/)
+
 - [Podcasts on 'Hacking' Cultures](https://www.lullabot.com/podcasts/hacking-culture)
 — [Hacking Forensics](https://labs.rs/en/metadata/)
 
