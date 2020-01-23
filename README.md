@@ -1,4 +1,6 @@
-# Hacking 3 — WdKA, Rotterdam 2019
+# Hacking 3 — WdKA, Rotterdam 2019 
+__Resources but Joana Chicau__
+
 Tutors: Ine Poppe, Joy Mariama Smith and Joana Chicau (Practice); Mariana Aboim (Theory)
 <!-- comment -->
 jointly with Ceramic station & interventions with Sound & Image +  Interaction Station
@@ -157,6 +159,8 @@ See also: [Do-it-yourself biology](https://en.wikipedia.org/wiki/Do-it-yourself_
 
 
 _further references_
+
+⋅⋅⋅[Alternative Limb Project](http://www.thealternativelimbproject.com/)
 
 body and data: <br/>
 ⋅⋅⋅[Documentary](https://www.youtube.com/watch?v=clIiP1H3Opw) <br/>
