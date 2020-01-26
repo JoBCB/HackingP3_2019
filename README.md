@@ -85,9 +85,13 @@ _Image:_ De humani corporis fabrica libri septem (Latin for "On the fabric of th
  
 > Anatomy: deals with the structural organization of living things. [Source](https://en.wikipedia.org/wiki/Anatomy)
 
-Also see recent entries [Anatomies of Intelligence Catalog](https://anatomiesofintelligence.github.io/catalogue.html) and an anatomic collection on the topic of [human body proportions](https://wellcomecollection.org/works?query=proportion).
-
  <img src="https://images.collection.cooperhewitt.org/84985_c578795c9e2d950c_b.jpg" width="400">
+
+Also see recent entries [Anatomies of Intelligence Catalog](https://anatomiesofintelligence.github.io/catalogue.html) and an anatomic collection on the topic of [human body proportions](https://wellcomecollection.org/works?query=proportion).
+ 
+ <img src="https://historyofinformation.com/images/1041a%20Large.jpg" width="600">
+
+ > In 1964 William A. FetterOffsite Link, an art director at The Boeing CompanyOffsite Link in Seattle, Washington, supervised development of a  computer program that allowed him to create the first three-dimensional images of the human body through computer graphics. Using this program Fetter and his team produced the first computer model of a human figureOffsite Link for use in the study of aircraft cockpit design. It was called the “First Man” or "Boeing Man."  [Read more..](https://courses.washington.edu/eatreun/html/history/h_nw.html)
 
 _Image:_ Template, Humanscale 7b: Seated at Work Selector, 1981 
 
