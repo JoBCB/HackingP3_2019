@@ -180,7 +180,8 @@ body and surveillance:<br/>
 ⋅⋅⋅[Zach Blas](http://www.zachblas.info/works/facial-weaponization-suite/) <br/>
 ⋅⋅⋅[Eric Minh Cuong Castaing 02](https://www.ballet-de-marseille.com/en/collaborations/performances/phoenix-47) <br/>
 
-body augmentation and wearables:<br/>
+body and wearables:<br/>
+⋅⋅⋅[Hacking the body by Kate Sichio](https://hackingthebody.wordpress.com/blog/)
 ⋅⋅⋅[Eric Minh Cuong Castaing 01](https://www.ballet-de-marseille.com/en/collaborations/performances/lrsquoacircge-d-or-45) <br/>
 ⋅⋅⋅[Rebecca Horn](https://www.youtube.com/watch?v=6uEkq3IBIf0)<br/>
 ⋅⋅⋅[Rehab Training Performance by Geumhyung Jeong](https://vimeo.com/288041120) <br/>
