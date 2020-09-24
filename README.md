@@ -326,6 +326,7 @@ __04__
 
 - [Podcasts on 'Hacking' Cultures](https://www.lullabot.com/podcasts/hacking-culture)
 — [Hacking Forensics](https://labs.rs/en/metadata/)
+— [Hacking Life: Systematized Living and Its Discontents — by Joseph M. Reagle, Jr.](https://hackinglife.mitpress.mit.edu/)  — an open access pub @The MIT Press; <br/>
 
 - [Examples of a Hacker's community blog](https://hackaday.io)  <br/>
 - [Hacker's spaces worldwide](https://wiki.hackerspaces.org/List_of_Hacker_Spaces)
