@@ -107,7 +107,10 @@ _References:_
 - [StarWars animation](http://www.asciimation.co.nz/) (tip: type on the terminal: telnet towel.blinkenlights.nl)
 
 
-## Other interesting tools:__
+_Other interesting tools:_
 
 - [ImageMagick includes a number of command-line utilities for manipulating images.](https://imagemagick.org)
 
+## Further readings:
+
+— [Hello, World! by Taeyoon Choi](http://avant.org/project/hello-world/)
