@@ -188,8 +188,8 @@ body and wearables:<br/>
 ⋅⋅⋅[Various Examples](https://www.dezeen.com/tag/wearable-technology/)
 
 robotics:<br/>
-⋅⋅⋅[ Robots that come ever closer to the form of the human body
-](http://www.therobotstudio.com/)
+⋅⋅⋅[Robotics and Remote Existence: Postevolutionary Strategies](https://esteticanuevosterritorios.files.wordpress.com/2010/04/stelarc.pdf) by [Stelarc](http://stelarc.org/?catID=20263)<br/>
+⋅⋅⋅[ Robots that come ever closer to the form of the human body](http://www.therobotstudio.com/)
 
 ---
 
