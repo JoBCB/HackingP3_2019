@@ -111,6 +111,8 @@ _Other interesting tools:_
 
 - [ImageMagick includes a number of command-line utilities for manipulating images.](https://imagemagick.org)
 
+- [Command Line Music Player](https://cmd.to/)
+
 ## Further readings:
 
 — [Hello, World! by Taeyoon Choi](http://avant.org/project/hello-world/)
