@@ -166,6 +166,8 @@ See also: [Do-it-yourself biology](https://en.wikipedia.org/wiki/Do-it-yourself_
 
 _further references_
 
+⋅⋅⋅[A holiday from being human (GoatMan)](https://www.thomasthwaites.com/a-holiday-from-being-human-goatman/)
+
 ⋅⋅⋅[Alternative Limb Project](http://www.thealternativelimbproject.com/)
 
 body and data: <br/>
